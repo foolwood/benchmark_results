@@ -1,12 +1,6 @@
 # OTB Results
 
-**Share results for `more recent` trackers.**
-
-**All results in [[Baidu Yun](https://pan.baidu.com/s/1c27e9Ew)]**
-
-
-
-
+**Share results for more recent trackers.**
 #<a>  OTB50</a>
 ![result](results.png)
 
@@ -18,6 +12,10 @@
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
 [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)]
 
+* **SRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
+"Learning Spatially Regularized Correlation Filters for Visual Tracking." ICCV (2015). 
+[[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/SRDCF_ICCV15.pdf)]
+[[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/)]
 
 * **MDNet:** Nam, Hyeonseob, and Bohyung Han. 
 "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking." CVPR (2015).
@@ -25,13 +23,8 @@
 [[VOT_presentation](http://votchallenge.net/vot2015/download/presentation_Hyeonseob.pdf)]
 [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
 
-* **MUSTer:**  Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, and Dacheng Tao. 
-"MUlti-Store Tracker (MUSTer): A cognitive psychology inspired approach to object tracking."  CVPR (2015)
-[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hong_MUlti-Store_Tracker_MUSTer_2015_CVPR_paper.pdf)]
-[[project](https://sites.google.com/site/zhibinhong4131/Projects/muster)]
-
 * **LCT:** Chao Ma, Xiaokang Yang, Chongyang Zhang, Ming-Hsuan Yang.
-"Long-term Correlation Tracking." CVPR (2015)
+"Long-term Correlation Tracking." CVPR (2015).
 [[paper](https://drive.google.com/file/d/0B8-i_hZvGyZNMzc5QWtINjhIMU0/view)]
 [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
 
@@ -41,12 +34,12 @@
 [[project](http://www.cvl.isy.liu.se/en/research/objrec/visualtracking/scalvistrack/index.html)]
 
 * **TGPR:** Jin Gao, Haibin Ling, Weiming Hu, Junliang Xing.
-"Transfer Learning Based Visual Tracking with Gaussian Process Regression." ECCV (2014)
+"Transfer Learning Based Visual Tracking with Gaussian Process Regression." ECCV (2014).
 [[paper](http://www.dabi.temple.edu/~hbling/publication/tgpr-eccv14.pdf)]
 [[project](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)]
 
 * **KCF:** João F. Henriques, Rui Caseiro, Pedro Martins, Jorge Batista. 
-"High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015)
+"High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015).
 [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
