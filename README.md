@@ -1,7 +1,7 @@
 # OTB Results
 
 **Share results for more recent trackers.**
-#<a>  OTB50</a>
+#OTB50
 ![result](results.png)
 
 
