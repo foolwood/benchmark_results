@@ -30,8 +30,13 @@
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/SRDCF_ICCV15.pdf)]
 [[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/)]
 
+* **CF2:** Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang.
+"Hierarchical Convolutional Features for Visual Tracking." ICCV (2015)
+[[paper](http://faculty.ucmerced.edu/mhyang/papers/iccv15_tracking.pdf)]
+[[project](https://sites.google.com/site/jbhuang0604/publications/cf2)]
+
 * **FCNT:** Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu. 
-"Visual Tracking with fully Convolutional Networks." ICCV (2015). 
+"Visual Tracking with Fully Convolutional Networks." ICCV (2015). 
 [[paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)]
 [[project](http://scott89.github.io/FCNT/)]
 
