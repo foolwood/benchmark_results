@@ -15,6 +15,11 @@
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
 [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)]
 
+* **DeepSRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
+"Convolutional Features for Correlation Filter Based Visual Tracking." ICCV workshop (2015). 
+[[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/ConvDCF_ICCV15_VOTworkshop.pdf)]
+[[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/)]
+
 * **SRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
 "Learning Spatially Regularized Correlation Filters for Visual Tracking." ICCV (2015). 
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/SRDCF_ICCV15.pdf)]
