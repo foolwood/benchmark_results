@@ -41,6 +41,11 @@
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/ScaleTracking_BMVC14.pdf)]
 [[project](http://www.cvl.isy.liu.se/en/research/objrec/visualtracking/scalvistrack/index.html)]
 
+* **MEEM:** Jianming Zhang, Shugao Ma, and Stan Sclaroff.
+"MEEM: Robust Tracking via Multiple Experts using Entropy Minimization." ECCV (2014).
+[[paper](http://cs-people.bu.edu/jmzhang/MEEM/MEEM-eccv-preprint.pdf)]
+[[project](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)]
+
 * **TGPR:** Jin Gao, Haibin Ling, Weiming Hu, Junliang Xing.
 "Transfer Learning Based Visual Tracking with Gaussian Process Regression." ECCV (2014).
 [[paper](http://www.dabi.temple.edu/~hbling/publication/tgpr-eccv14.pdf)]
