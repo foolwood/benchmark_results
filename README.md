@@ -15,6 +15,11 @@
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
 [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)]
 
+* **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
+"Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
+[[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
+[[project](http://www.robots.ox.ac.uk/~luca/staple.html)]
+
 * **DeepSRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
 "Convolutional Features for Correlation Filter Based Visual Tracking." ICCV workshop (2015). 
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/ConvDCF_ICCV15_VOTworkshop.pdf)]
