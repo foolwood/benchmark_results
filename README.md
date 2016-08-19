@@ -26,6 +26,11 @@
 [[paper](https://staff.science.uva.nl/r.tao/pub/TaoCVPR2016.pdf)]
 [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
 
+* **SCT:** Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, and Jin Young Choi.
+"Visual Tracking Using Attention-Modulated Disintegration and Integration." CVPR (2016).
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)]
+[[project](https://sites.google.com/site/jwchoivision/home/sct)]
+
 * **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
 "Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
 [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
