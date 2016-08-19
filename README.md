@@ -19,6 +19,11 @@
 "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking." CVPR (2016).
 [[paper](http://arxiv.org/pdf/1510.07945v2.pdf)]
 [[VOT_presentation](http://votchallenge.net/vot2015/download/presentation_Hyeonseob.pdf)]
+[[project](https://staff.fnwi.uva.nl/r.tao/projects/SINT/SINT_proj.html)]
+
+* **SINT:** Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders. 
+"Siamese Instance Search for Tracking." CVPR (2016).
+[[paper](https://staff.science.uva.nl/r.tao/pub/TaoCVPR2016.pdf)]
 [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
 
 * **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
