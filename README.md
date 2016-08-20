@@ -31,6 +31,11 @@
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)]
 [[project](https://sites.google.com/site/jwchoivision/home/sct)]
 
+* **SRDCFdecon:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
+"Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking." CVPR (2016).
+[[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/AdaptiveDecon_CVPR16.pdf)]
+[[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/index.html)]
+
 * **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
 "Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
 [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
