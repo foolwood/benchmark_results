@@ -51,6 +51,11 @@
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/SRDCF_ICCV15.pdf)]
 [[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/)]
 
+* **CNN-SVM:** Seunghoon Hong, Tackgeun You, Suha Kwak and Bohyung Han.
+"Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network ." ICML (2015)
+[[paper](http://120.52.73.80/arxiv.org/pdf/1502.06796.pdf)]
+[[project](http://cvlab.postech.ac.kr/research/CNN_SVM/)]
+
 * **CF2:** Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang.
 "Hierarchical Convolutional Features for Visual Tracking." ICCV (2015)
 [[paper](http://faculty.ucmerced.edu/mhyang/papers/iccv15_tracking.pdf)]
