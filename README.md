@@ -86,13 +86,18 @@
 [[paper](http://www.dabi.temple.edu/~hbling/publication/tgpr-eccv14.pdf)]
 [[project](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)]
 
+* **SAMF:** Yang Li, Jianke Zhu.
+"A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration." ECCV workshop (2014).
+[[paper](http://link.springer.com/content/pdf/10.1007%2F978-3-319-16181-5_18.pdf)]
+[[project](https://github.com/ihpdep/samf)]
+
 * **KCF:** João F. Henriques, Rui Caseiro, Pedro Martins, Jorge Batista. 
 "High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015).
 [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 
-Reference
+Benchmark
 ----------
 * Wu, Yi, Jongwoo Lim, and Minghsuan Yang. 
 "Online Object Tracking: A Benchmark." CVPR (2013).
