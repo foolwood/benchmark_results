@@ -71,6 +71,11 @@
 [[paper](https://drive.google.com/file/d/0B8-i_hZvGyZNMzc5QWtINjhIMU0/view)]
 [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
 
+* **RPT:** Yang Li, Jianke Zhu and Steven C.H. Hoi. 
+"Reliable Patch Trackers: Robust Visual Tracking by Exploiting Reliable Patches." CVPR (2015). 
+[[paper](https://github.com/ihpdep/ihpdep.github.io/raw/master/papers/cvpr15_rpt.pdf)]
+[[project](https://github.com/ihpdep/rpt)]
+
 * **DSST:** Martin Danelljan, Gustav Häger, Fahad Shahbaz Khan and Michael Felsberg. 
 "Accurate Scale Estimation for Robust Visual Tracking." BMVC (2014).
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/ScaleTracking_BMVC14.pdf)]
