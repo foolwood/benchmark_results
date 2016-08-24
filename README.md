@@ -46,6 +46,11 @@
 [[paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/cvpr16/DLSSVM.pdf)]
 [[code](http://www4.comp.polyu.edu.hk/~cslzhang/code/DLSSVM_CVPR.zip)]
 
+* **CNT:** Kaihua Zhang, Qingshan Liu, Yi Wu, Minghsuan Yang. 
+"Robust Visual Tracking via Convolutional Networks Without Training." TIP (2016). 
+[[paper](http://kaihuazhang.net/CNT.pdf)]
+[[code](http://kaihuazhang.net/CNT_matlab.rar)]
+
 * **DeepSRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
 "Convolutional Features for Correlation Filter Based Visual Tracking." ICCV workshop (2015). 
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/ConvDCF_ICCV15_VOTworkshop.pdf)]
@@ -95,6 +100,11 @@
 "Transfer Learning Based Visual Tracking with Gaussian Process Regression." ECCV (2014).
 [[paper](http://www.dabi.temple.edu/~hbling/publication/tgpr-eccv14.pdf)]
 [[project](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)]
+
+* **STC:** Kaihua Zhang, Lei Zhang, Ming-Hsuan Yang, David Zhang.
+"Fast Tracking via Spatio-Temporal Context Learning." ECCV (2014).
+[[paper](http://arxiv.org/pdf/1311.1939v1.pdf)]
+[[project](http://www4.comp.polyu.edu.hk/~cslzhang/STC/STC.htm)]
 
 * **SAMF:** Yang Li, Jianke Zhu.
 "A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration." ECCV workshop (2014).
