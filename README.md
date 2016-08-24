@@ -41,6 +41,11 @@
 [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/staple.html)]
 
+* **DLSSVM:** Jifeng Ning, Jimei Yang, Shaojie Jiang, Lei Zhang and Ming-Hsuan Yang. 
+"Object Tracking via Dual Linear Structured SVM and Explicit Feature Map." CVPR (2016). 
+[[paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/cvpr16/DLSSVM.pdf)]
+[[code](http://www4.comp.polyu.edu.hk/~cslzhang/code/DLSSVM_CVPR.zip)]
+
 * **DeepSRDCF:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
 "Convolutional Features for Correlation Filter Based Visual Tracking." ICCV workshop (2015). 
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/ConvDCF_ICCV15_VOTworkshop.pdf)]
