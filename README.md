@@ -10,6 +10,11 @@
 
 ##Visual Trackers
 
+* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
+"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
+[[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
+[project]
+
 * **C-COT:** Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. 
 "Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking." ECCV (2016). 
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
