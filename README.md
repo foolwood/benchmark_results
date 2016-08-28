@@ -15,6 +15,11 @@
 [[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
 [project]
 
+* **GOTURN:** David Held, Sebastian Thrun, Silvio Savarese. 
+"Learning to Track at 100 FPS with Deep Regression Networks." ECCV (2016). 
+[[paper](http://davheld.github.io/GOTURN/GOTURN.pdf)]
+[[project](http://davheld.github.io/GOTURN/GOTURN.html)]
+
 * **C-COT:** Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. 
 "Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking." ECCV (2016). 
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
