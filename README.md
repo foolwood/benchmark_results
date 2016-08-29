@@ -25,6 +25,16 @@
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
 [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)]
 
+* **CF+AT:** Adel Bibi, Matthias Mueller, and Bernard Ghanem. 
+"Target Response Adaptation for Correlation Filter Tracking." ECCV (2016). 
+[[paper](http://www.adelbibi.com/papers/ECCV2016/Target_Adap.pdf)]
+[project]
+
+* **:** Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
+"Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
+[paper]
+[project]
+
 * **MDNet:** Nam, Hyeonseob, and Bohyung Han. 
 "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking." CVPR (2016).
 [[paper](http://arxiv.org/pdf/1510.07945v2.pdf)]
