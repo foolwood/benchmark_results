@@ -30,11 +30,6 @@
 [[paper](http://www.adelbibi.com/papers/ECCV2016/Target_Adap.pdf)]
 [project]
 
-* **:** Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
-"Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
-[paper]
-[project]
-
 * **MDNet:** Nam, Hyeonseob, and Bohyung Han. 
 "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking." CVPR (2016).
 [[paper](http://arxiv.org/pdf/1510.07945v2.pdf)]
@@ -136,6 +131,17 @@
 [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
+##Others
+
+* Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
+"Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
+[[paper](http://120.52.73.78/arxiv.org/pdf/1608.08173.pdf)]
+[project]
+
+* Yao Sui, Guanghui Wang, Yafei Tang, Li Zhang. 
+"Tracking Completion." ECCV (2016). 
+[[paper](http://120.52.73.78/arxiv.org/pdf/1608.08171v1.pdf)]
+[project]
 
 Benchmark
 ----------
