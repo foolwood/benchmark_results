@@ -132,6 +132,10 @@
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+* **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
+"Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
+[[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
+[[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
 
 * Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
 "Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
