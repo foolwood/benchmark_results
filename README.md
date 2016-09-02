@@ -54,6 +54,11 @@
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/AdaptiveDecon_CVPR16.pdf)]
 [[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/index.html)]
 
+* **HDT:** Yuankai Qi, Shengping Zhang, Lei Qin, Hongxun Yao, Qingming Huang, Jongwoo Lim, Ming-Hsuan Yang. 
+"Hedged Deep Tracking." CVPR (2016). 
+[[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr16_hedge_tracking.pdf)]
+[[project](https://sites.google.com/site/yuankiqi/hdt/)]
+
 * **Staple:** Luca Bertinetto, Jack Valmadre, Stuart Golodetz, Ondrej Miksik, Philip H.S. Torr. 
 "Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
 [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
