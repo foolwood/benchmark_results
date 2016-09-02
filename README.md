@@ -19,11 +19,13 @@
 "Learning to Track at 100 FPS with Deep Regression Networks." ECCV (2016). 
 [[paper](http://davheld.github.io/GOTURN/GOTURN.pdf)]
 [[project](http://davheld.github.io/GOTURN/GOTURN.html)]
+[[github](https://github.com/davheld/GOTURN)]
 
 * **C-COT:** Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. 
 "Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking." ECCV (2016). 
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)]
 [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html)]
+[[github](https://github.com/martin-danelljan/Continuous-ConvOp)]
 
 * **CF+AT:** Adel Bibi, Matthias Mueller, and Bernard Ghanem. 
 "Target Response Adaptation for Correlation Filter Tracking." ECCV (2016). 
@@ -35,6 +37,7 @@
 [[paper](http://arxiv.org/pdf/1510.07945v2.pdf)]
 [[VOT_presentation](http://votchallenge.net/vot2015/download/presentation_Hyeonseob.pdf)]
 [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
+[[github](https://github.com/HyeonseobNam/MDNet)]
 
 * **SINT:** Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders. 
 "Siamese Instance Search for Tracking." CVPR (2016).
@@ -55,6 +58,7 @@
 "Staple: Complementary Learners for Real-Time Tracking." CVPR (2016). 
 [[paper](http://120.52.73.75/arxiv.org/pdf/1512.01355v2.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/staple.html)]
+[[github](https://github.com/bertinetto/staple)]
 
 * **DLSSVM:** Jifeng Ning, Jimei Yang, Shaojie Jiang, Lei Zhang and Ming-Hsuan Yang. 
 "Object Tracking via Dual Linear Structured SVM and Explicit Feature Map." CVPR (2016). 
@@ -85,21 +89,24 @@
 "Hierarchical Convolutional Features for Visual Tracking." ICCV (2015)
 [[paper](http://faculty.ucmerced.edu/mhyang/papers/iccv15_tracking.pdf)]
 [[project](https://sites.google.com/site/jbhuang0604/publications/cf2)]
+[[github](https://github.com/jbhuang0604/CF2)]
 
 * **FCNT:** Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu. 
 "Visual Tracking with Fully Convolutional Networks." ICCV (2015). 
 [[paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)]
 [[project](http://scott89.github.io/FCNT/)]
+[[github](https://github.com/scott89/FCNT)]
 
 * **LCT:** Chao Ma, Xiaokang Yang, Chongyang Zhang, Ming-Hsuan Yang.
 "Long-term Correlation Tracking." CVPR (2015).
 [[paper](https://drive.google.com/file/d/0B8-i_hZvGyZNMzc5QWtINjhIMU0/view)]
 [[project](https://sites.google.com/site/chaoma99/cvpr15_tracking)]
+[[github](https://github.com/chaoma99/lct-tracker)]
 
 * **RPT:** Yang Li, Jianke Zhu and Steven C.H. Hoi. 
 "Reliable Patch Trackers: Robust Visual Tracking by Exploiting Reliable Patches." CVPR (2015). 
 [[paper](https://github.com/ihpdep/ihpdep.github.io/raw/master/papers/cvpr15_rpt.pdf)]
-[[project](https://github.com/ihpdep/rpt)]
+[[github](https://github.com/ihpdep/rpt)]
 
 * **DSST:** Martin Danelljan, Gustav Häger, Fahad Shahbaz Khan and Michael Felsberg. 
 "Accurate Scale Estimation for Robust Visual Tracking." BMVC (2014).
@@ -124,7 +131,7 @@
 * **SAMF:** Yang Li, Jianke Zhu.
 "A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration." ECCV workshop (2014).
 [[paper](http://link.springer.com/content/pdf/10.1007%2F978-3-319-16181-5_18.pdf)]
-[[project](https://github.com/ihpdep/samf)]
+[[github](https://github.com/ihpdep/samf)]
 
 * **KCF:** João F. Henriques, Rui Caseiro, Pedro Martins, Jorge Batista. 
 "High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015).
@@ -137,11 +144,13 @@
 "Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking." arXiv (2016). 
 [[paper](http://arxiv.org/pdf/1607.05781v1.pdf)]
 [[project](http://guanghan.info/projects/ROLO/)]
+[[github](https://github.com/Guanghan/ROLO/)]
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
+[[github](https://github.com/bertinetto/siamese-fc)]
 
 * Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
 "Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
