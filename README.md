@@ -132,6 +132,12 @@
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+
+* **ROLO:** Guanghan Ning, Zhi Zhang, Chen Huang, Zhihai He, Xiaobo Ren, Haohong Wang. 
+"Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking." arXiv (2016). 
+[[paper](http://arxiv.org/pdf/1607.05781v1.pdf)]
+[[project](http://guanghan.info/projects/ROLO/)]
+
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
