@@ -167,6 +167,10 @@
 [[paper](http://120.52.73.78/arxiv.org/pdf/1608.08171v1.pdf)]
 [project]
 
+* **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
+"Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
+[[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
+
 Benchmark
 ----------
 * Wu, Yi, Jongwoo Lim, and Minghsuan Yang. 
