@@ -10,6 +10,12 @@
 
 ##Visual Trackers
 
+* **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
+"Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
+[[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
+[[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
+[[github](https://github.com/bertinetto/siamese-fc)]
+
 * **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
 "Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
 [[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
@@ -151,12 +157,6 @@
 [[project](http://guanghan.info/projects/ROLO/)]
 [[github](https://github.com/Guanghan/ROLO/)]
 
-* **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
-"Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
-[[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
-[[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
-[[github](https://github.com/bertinetto/siamese-fc)]
-
 * Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
 "Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1608.08173.pdf)]
@@ -170,6 +170,36 @@
 * **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
+
+##Result(Rank by AUC)
+|   Tracker   |   AUC   |   Precision   |   OS (%)   |   DP(%)   |   CLE (pixel)   |
+|:-----------:|:---------:| ----------:| ---------------:| -------:| -------------:|
+|  MDNet  |0.70767|0.94803|0.96534|0.94981|6.315|
+|  C-COT  |0.67689|0.90795|0.93051|0.93095|10.2029|
+|  SINT+  |0.65517|0.88157|0.89409|0.90053|9.7901|
+|  SRDCFdecon  |0.65257|0.86967|0.91233|0.91749|14.8125|
+|  MUSTer  |0.64107|0.86458|0.89259|0.91861|9.3628|
+|  DeepSRDCF  |0.64073|0.84881|0.89409|0.89659|13.0293|
+|  SINT  |0.63495|0.85064|0.87536|0.8773|13.3137|
+|  LCT  |0.62786|0.84802|0.90016|0.90097|13.993|
+|  SRDCF  |0.6262|0.83795|0.87021|0.87998|21.9456|
+|  SiamFC  |0.61217|0.81532|0.85434|0.84562|23.8246|
+|  SiamFC_{3s}  |0.60829|0.80922|0.84928|0.84216|20.904|
+|  CF2  |0.60466|0.8907|0.78739|0.87726|17.9674|
+|  HDT  |0.60279|0.88853|0.78763|0.87737|17.9539|
+|  Staple  |0.59952|0.79256|0.84362|0.85739|21.6479|
+|  FCNT  |0.59902|0.85587|0.87313|0.88859|11.8177|
+|  CNN-SVM  |0.5971|0.85159|0.82544|0.86197|14.1727|
+|  SCT  |0.59526|0.84546|0.82198|0.86594|13.8994|
+|  DLSSVM  |0.58915|0.82884|0.79512|0.84725|21.7044|
+|  SAMF  |0.57935|0.78495|0.81917|0.84179|21.6129|
+|  RPT  |0.57694|0.8045|0.84006|0.85556|21.4296|
+|  MEEM  |0.56596|0.83004|0.79807|0.8582|15.4204|
+|  DSST  |0.55386|0.73705|0.7898|0.8113|26.5619|
+|  CNT  |0.54475|0.72309|0.7683|0.76735|35.663|
+|  TGPR  |0.5294|0.76612|0.71817|0.77457|29.9533|
+|  KCF  |0.51336|0.74057|0.74157|0.82493|21.1099|
+
 
 Benchmark
 ----------
