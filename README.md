@@ -167,6 +167,22 @@
 [[paper](http://120.52.73.78/arxiv.org/pdf/1608.08171v1.pdf)]
 [project]
 
+* **EBT:**Gao Zhu, Fatih Porikli, and Hongdong Li.
+"Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016). 
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)]
+
+* **DAT:**Horst Possegger, Thomas Mauthner, and Horst Bischof. 
+"In Defense of Color-based Model-free Tracking." CVPR (2015). 
+[[paper](https://lrs.icg.tugraz.at/pubs/possegger_cvpr15.pdf)]
+[[project](https://lrs.icg.tugraz.at/members/possegger)]
+[[code](https://lrs.icg.tugraz.at/downloads/dat-v1.0.zip)]
+
+* **RAJSSC:**Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu. 
+"Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation." ICCV workshop (2015). 
+[[paper](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w14/papers/Zhang_Joint_Scale-Spatial_Correlation_ICCV_2015_paper.pdf)]
+[[poster](http://www.votchallenge.net/vot2015/download/poster_Mengdan_Zhang.pdf)]
+
+
 * **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
