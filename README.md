@@ -190,7 +190,7 @@
 ##Benchmark Results
 **The trackers are ordered by the average overlap scores.**
 
-* ``AUC`` and ``Precision`` are the standard metric.
+* ``AUC`` and ``Precision`` are the standard metrics.
 * ``OS``(overlap success rate at the overlap threshold of 0.5)
 
 ```
