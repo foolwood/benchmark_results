@@ -200,10 +200,14 @@
 
 * **Dataset-VOT:**
 **[[project](http://www.votchallenge.net/)]**
-**[[VOT13_paper_ICCV](http://www.votchallenge.net/vot2013/Download/vot_2013_paper.pdf)]**
-**[[VOT14_paper_ECCV](http://www.votchallenge.net/vot2014/download/vot_2014_paper.pdf)]**
-**[[VOT15_paper_ICCV](http://www.votchallenge.net/vot2015/download/vot_2015_paper.pdf)]**
-**[[VOT16_paper_ECCV]()]**
+
+**[[VOT13_paper_ICCV](http://www.votchallenge.net/vot2013/Download/vot_2013_paper.pdf)]The Visual Object Tracking VOT2013 challenge results**
+
+**[[VOT14_paper_ECCV](http://www.votchallenge.net/vot2014/download/vot_2014_paper.pdf)]The Visual Object Tracking VOT2014 challenge results**
+
+**[[VOT15_paper_ICCV](http://www.votchallenge.net/vot2015/download/vot_2015_paper.pdf)]The Visual Object Tracking VOT2015 challenge results**
+
+**[[VOT16_paper_ECCV]()]The Visual Object Tracking VOT2016 challenge results**
 
 ##Benchmark Results
 **The trackers are ordered by the average overlap scores.**
