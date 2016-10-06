@@ -182,10 +182,28 @@
 [[paper](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w14/papers/Zhang_Joint_Scale-Spatial_Correlation_ICCV_2015_paper.pdf)]
 [[poster](http://www.votchallenge.net/vot2015/download/poster_Mengdan_Zhang.pdf)]
 
-
 * **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
+
+* **Dataset-UAV123:**Matthias Mueller, Neil Smith and Bernard Ghanem.
+"A Benchmark and Simulator for UAV Tracking." ECCV (2016)
+[[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
+[[project](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)]
+[[dataset](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
+
+* **Dataset-TC128:**Pengpeng Liang, Erik Blasch, Haibin Ling.
+"Encoding color information for visual tracking: Algorithms and benchmark." TIP (2015)
+[[paper](http://www.dabi.temple.edu/~hbling/publication/TColor-128.pdf)]
+[[project](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)]
+[[dataset](http://www.dabi.temple.edu/~hbling/data/TColor-128/Temple-color-128.zip)]
+
+* **Dataset-VOT:**
+**[[project](http://www.votchallenge.net/)]**
+**[[VOT13_paper_ICCV](http://www.votchallenge.net/vot2013/Download/vot_2013_paper.pdf)]**
+**[[VOT14_paper_ECCV](http://www.votchallenge.net/vot2014/download/vot_2014_paper.pdf)]**
+**[[VOT15_paper_ICCV](http://www.votchallenge.net/vot2015/download/vot_2015_paper.pdf)]**
+**[[VOT16_paper_ECCV]()]**
 
 ##Benchmark Results
 **The trackers are ordered by the average overlap scores.**
