@@ -186,6 +186,18 @@
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
 
+* **DLT:**Naiyan Wang and Dit-Yan Yeung. 
+"Learning A Deep Compact Image Representation for Visual Tracking." NIPS (2013). 
+[[paper](http://winsty.net/papers/dlt.pdf)]
+[[project](http://winsty.net/dlt.html)]
+[[code](http://winsty.net/dlt/DLTcode.zip)]
+
+* Naiyan Wang, Jianping Shi, Dit-Yan Yeung and Jiaya Jia.
+"Understanding and Diagnosing Visual Tracking Systems." ICCV (2015). 
+[[paper](http://winsty.net/papers/diagnose.pdf)]
+[[project](http://winsty.net/tracker_diagnose.html)]
+[[code](http://winsty.net/diagnose/diagnose_code.zip)]
+
 * **Dataset-UAV123:**Matthias Mueller, Neil Smith and Bernard Ghanem.
 "A Benchmark and Simulator for UAV Tracking." ECCV (2016)
 [[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
