@@ -151,6 +151,10 @@
 
 ##Others
 
+* **Learnet:** Luca Bertinetto, João F. Henriques, Jack Valmadre, Philip H. S. Torr, Andrea Vedaldi. 
+"Learning feed-forward one-shot learners." NIPS (2016). 
+[[paper](https://arxiv.org/pdf/1606.05233v1.pdf)]
+
 * **ROLO:** Guanghan Ning, Zhi Zhang, Chen Huang, Zhihai He, Xiaobo Ren, Haohong Wang. 
 "Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking." arXiv (2016). 
 [[paper](http://arxiv.org/pdf/1607.05781v1.pdf)]
@@ -212,7 +216,7 @@
 
 * **Dataset-PTB:**Shuran Song and Jianxiong Xiao.
 "Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines." ICCV (2013)
-[[paper](Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines )]
+[[paper](http://vision.princeton.edu/projects/2013/tracking/paper.pdf)]
 [[project](http://tracking.cs.princeton.edu/)]
 [[5 validation](http://tracking.cs.princeton.edu/ValidationSet.zip)]
 [[95 evaluation](http://tracking.cs.princeton.edu/EvaluationSet.tgz)]
