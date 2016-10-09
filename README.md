@@ -283,6 +283,23 @@ CLE = sum(CLE_per_image,2)/29486
 |  KCF  |0.5138|0.73999|0.69599|0.83202|21.0937|230.0655|N|
 
 
+
+##Distinguished Researchers & Teams
+Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order, 
+I will continue to supplement this part.)
+
+* [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
+* [Haibin Ling](http://www.dabi.temple.edu/~hbling/)
+* [Huchuan Lu](http://ice.dlut.edu.cn/lu/)
+* [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
+* [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
+* [João F. Henriques](http://www.robots.ox.ac.uk/~joao/)
+* [Martin Danelljan](http://users.isy.liu.se/cvl/marda26/)
+* [Kaihua Zhang](http://kaihuazhang.net/)
+* [Luca Bertinetto](http://www.robots.ox.ac.uk/~luca/index.html)
+* [**Torr Vision Group**](http://www.robots.ox.ac.uk/~tvg/people.php)
+* [**Computer Vision Laboratory, POSTECH**](http://cvlab.postech.ac.kr/lab/index.php)
+
 Benchmark
 ----------
 * Wu, Yi, Jongwoo Lim, and Minghsuan Yang. 
