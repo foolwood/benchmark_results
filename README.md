@@ -55,6 +55,11 @@
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)]
 [[project](https://sites.google.com/site/jwchoivision/home/sct)]
 
+* **STCT:** Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, and Jin Young Choi.
+"STCT: Sequentially Training Convolutional Networks for Visual Tracking." CVPR (2016).
+[[paper](http://202.118.75.4/lu/Paper/CVPR2016/wanglijun/0112.pdf)]
+[[github](https://github.com/scott89/STCT)]
+
 * **SRDCFdecon:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
 "Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking." CVPR (2016).
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/AdaptiveDecon_CVPR16.pdf)]
