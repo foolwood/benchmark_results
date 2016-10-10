@@ -302,6 +302,10 @@ I will continue to supplement this part.)
 * [Martin Danelljan](http://users.isy.liu.se/cvl/marda26/)
 * [Kaihua Zhang](http://kaihuazhang.net/)
 * [Luca Bertinetto](http://www.robots.ox.ac.uk/~luca/index.html)
+* [Tianzhu Zhang](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html)
+
+
+
 * [**Torr Vision Group**](http://www.robots.ox.ac.uk/~tvg/people.php)
 * [**Computer Vision Laboratory, POSTECH**](http://cvlab.postech.ac.kr/lab/index.php)
 
