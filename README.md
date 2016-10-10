@@ -12,7 +12,7 @@
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
-[[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v1.pdf)]
+[[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v2.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
 [[github](https://github.com/bertinetto/siamese-fc)]
 
@@ -174,6 +174,11 @@
 * **EBT:**Gao Zhu, Fatih Porikli, and Hongdong Li.
 "Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016). 
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)]
+
+* **RATM:**Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic. 
+"RATM: Recurrent Attentive Tracking Model." arXiv (2015). 
+[[paper](https://arxiv.org/pdf/1510.08660v4.pdf)]
+[[github](https://github.com/saebrahimi/RATM)]
 
 * **DAT:**Horst Possegger, Thomas Mauthner, and Horst Bischof. 
 "In Defense of Color-based Model-free Tracking." CVPR (2015). 
