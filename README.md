@@ -240,7 +240,7 @@
 
 **[[VOT15_paper_ICCV](http://www.votchallenge.net/vot2015/download/vot_2015_paper.pdf)]The Visual Object Tracking VOT2015 challenge results**
 
-**[[VOT16_paper_ECCV]()]The Visual Object Tracking VOT2016 challenge results**
+**[[VOT16_paper_ECCV](https://pan.baidu.com/s/1hrIUwvi)]The Visual Object Tracking VOT2016 challenge results**
 
 ##Benchmark Results
 **The trackers are ordered by the average overlap scores.**
