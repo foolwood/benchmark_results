@@ -5,8 +5,8 @@
 :high_brightness: **All results in [[Baidu Yun](https://pan.baidu.com/s/1c27e9Ew)]** :high_brightness:
 
 ![cvpr13_result](cvpr13_results.png)
-![otb_50_result](otb50_results.png)
-![otb_100_result](otb100_results.png)
+![tb_50_result](tb50_results.png)
+![tb_100_result](tb100_results.png)
 
 ##Visual Trackers
 
