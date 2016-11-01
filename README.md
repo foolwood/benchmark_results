@@ -156,6 +156,10 @@
 
 ##Others
 
+* **BMR:** Kaihua Zhang, Qingshan Liu, and Ming-Hsuan Yang. 
+"Visual Tracking via Boolean Map Representations." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1610.09652v1.pdf)]
+
 * **Learnet:** Luca Bertinetto, João F. Henriques, Jack Valmadre, Philip H. S. Torr, Andrea Vedaldi. 
 "Learning feed-forward one-shot learners." NIPS (2016). 
 [[paper](https://arxiv.org/pdf/1606.05233v1.pdf)]
