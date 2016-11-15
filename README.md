@@ -162,6 +162,10 @@
 
 ##Others
 
+* **CRT:** Kai Chen, Wenbing Tao. 
+"Convolutional Regression for Visual Tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1611.04215.pdf)]
+
 * **BMR:** Kaihua Zhang, Qingshan Liu, and Ming-Hsuan Yang. 
 "Visual Tracking via Boolean Map Representations." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1610.09652v1.pdf)]
