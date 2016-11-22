@@ -11,7 +11,7 @@
 ##Visual Trackers
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
-"Fully-Convolutional Siamese Networks for Object Tracking." arXiv (2016). 
+"Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v2.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
 [[github](https://github.com/bertinetto/siamese-fc)]
@@ -161,6 +161,10 @@
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+
+* **SANet:** Heng Fan, Haibin Ling. 
+"SANet: Structure-Aware Network for Visual Tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1611.06878v1.pdf)]
 
 * **CRT:** Kai Chen, Wenbing Tao. 
 "Convolutional Regression for Visual Tracking." arXiv (2016). 
