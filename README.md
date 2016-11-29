@@ -162,6 +162,10 @@
 
 ##Others
 
+* **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
+"ECO: Efficient Convolution Operators for Tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1611.09224v1.pdf)]
+
 * **SANet:** Heng Fan, Haibin Ling. 
 "SANet: Structure-Aware Network for Visual Tracking." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1611.06878v1.pdf)]
