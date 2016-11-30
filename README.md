@@ -21,6 +21,11 @@
 [[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
 [project]
 
+* **SCF:** Wangmeng Zuo, Xiaohe Wu, Liang Lin, Lei Zhang, Ming-Hsuan Yang. 
+"Learning Support Correlation Filters for Visual Tracking." arXiv (2016).
+[[paper](https://arxiv.org/pdf/1601.06032.pdf)]
+[[project](http://faculty.ucmerced.edu/mhyang/project/scf/)]
+
 * **GOTURN:** David Held, Sebastian Thrun, Silvio Savarese. 
 "Learning to Track at 100 FPS with Deep Regression Networks." ECCV (2016). 
 [[paper](http://davheld.github.io/GOTURN/GOTURN.pdf)]
