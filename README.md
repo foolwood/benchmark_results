@@ -239,6 +239,10 @@
 [[project](http://winsty.net/tracker_diagnose.html)]
 [[code](http://winsty.net/diagnose/diagnose_code.zip)]
 
+* **Dataset-MoBe2016:**Luka Čehovin, Alan Lukežič, Aleš Leonardis, Matej Kristan.
+"Beyond standard benchmarks: Parameterizing performance evaluation in visual object tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1612.00089v1.pdf)]
+
 * **Dataset-UAV123:**Matthias Mueller, Neil Smith and Bernard Ghanem.
 "A Benchmark and Simulator for UAV Tracking." ECCV (2016)
 [[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
