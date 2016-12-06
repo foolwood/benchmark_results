@@ -183,6 +183,14 @@
 "Visual Tracking via Boolean Map Representations." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1610.09652v1.pdf)]
 
+* **CSR-DCF:** Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas, Matej Kristan. 
+"Discriminative Correlation Filter with Channel and Spatial Reliability." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
+
+* **YCNN:** Kai Chen, Wenbing Tao. 
+"Once for All: a Two-flow Convolutional Neural Network for Visual Tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1604.07507v1.pdf)]
+
 * **Learnet:** Luca Bertinetto, João F. Henriques, Jack Valmadre, Philip H. S. Torr, Andrea Vedaldi. 
 "Learning feed-forward one-shot learners." NIPS (2016). 
 [[paper](https://arxiv.org/pdf/1606.05233v1.pdf)]
