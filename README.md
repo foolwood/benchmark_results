@@ -138,6 +138,7 @@
 * **DSST:** Martin Danelljan, Gustav Häger, Fahad Shahbaz Khan and Michael Felsberg. 
 "Accurate Scale Estimation for Robust Visual Tracking." BMVC (2014).
 [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/ScaleTracking_BMVC14.pdf)]
+[[PAMI](http://www.cvl.isy.liu.se/en/research/objrec/visualtracking/scalvistrack/DSST_TPAMI.pdf)]
 [[project](http://www.cvl.isy.liu.se/en/research/objrec/visualtracking/scalvistrack/index.html)]
 
 * **MEEM:** Jianming Zhang, Shugao Ma, and Stan Sclaroff.
@@ -166,6 +167,10 @@
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+
+* **DNT:** Zhizhen Chi, Hongyang Li, Huchuan Lu, Ming-Hsuan Yang. 
+"Dual Deep Network for Visual Tracking." arXiv (2016). 
+[[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
 
 * **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
 "ECO: Efficient Convolution Operators for Tracking." arXiv (2016). 
