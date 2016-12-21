@@ -168,6 +168,10 @@
 
 ##Others
 
+* Susanna Gladh, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. 
+"Deep Motion Features for Visual Tracking." ICPR **Best Paper** (2016). 
+[[paper](https://arxiv.org/pdf/1612.06615v1.pdf)]
+
 * **DNT:** Zhizhen Chi, Hongyang Li, Huchuan Lu, Ming-Hsuan Yang. 
 "Dual Deep Network for Visual Tracking." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
