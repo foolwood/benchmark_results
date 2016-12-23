@@ -8,6 +8,46 @@
 ![tb_50_result](tb50_results.png)
 ![tb_100_result](tb100_results.png)
 
+## Benchmark Results
+
+**The trackers are ordered by the average overlap scores.**
+
+- `AUC` and `Precision` are the standard metrics.
+
+  Tracker   | AUC-CVPR2013 | Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50 | Deep Learning
+:---------: | :----------: | :----------------: | :--------: | :--------------: | :-------: | :-------------: | :-----------:
+    ECO     |      -       |         -          |   0.694    |        -         |     -     |        -        |       Y
+   SANet    |      -       |         -          |   0.692    |      0.928       |     -     |        -        |       Y
+   MDNet    |    0.708     |       0.948        |   0.678    |      0.909       |   0.645   |      0.890      |       Y
+   TCNN     |    0.682     |       0.937        |   0.654    |      0.884       |     -     |        -        |       Y
+   C-COT    |    0.673     |       0.899        |   0.671    |      0.898       |   0.614   |      0.843      |       N
+    CRT     |      -       |         -          |   0.644    |      0.875       |   0.594   |      0.835      |       N
+    DNT     |    0.664     |       0.907        |   0.627    |      0.851       |     -     |        -        |       Y
+   SINT+    |    0.655     |       0.882        |     -      |        -         |     -     |        -        |       Y
+SRDCFdecon  |    0.653     |       0.870        |   0.627    |      0.825       |   0.560   |      0.764      |       N
+  MUSTer    |    0.641     |       0.865        |     -      |        -         |     -     |        -        |       N
+ DeepSRDCF  |    0.641     |       0.849        |   0.635    |      0.851       |   0.560   |      0.772      |       Y
+   SINT     |    0.635     |       0.851        |     -      |        -         |     -     |        -        |       Y
+    LCT     |    0.628     |       0.848        |   0.562    |      0.762       |   0.492   |      0.691      |       N
+   SRDCF    |    0.626     |       0.838        |   0.598    |      0.789       |   0.539   |      0.732      |       N
+    SCF     |    0.623     |       0.874        |     -      |        -         |     -     |        -        |       N
+  SiamFC    |    0.612     |       0.815        |     -      |        -         |     -     |        -        |       Y
+SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         |     -     |        -        |       Y
+    CF2     |    0.605     |       0.891        |   0.562    |      0.837       |   0.513   |      0.803      |       Y
+    HDT     |    0.603     |       0.889        |   0.654    |      0.848       |   0.515   |      0.804      |       Y
+  Staple    |    0.600     |       0.793        |     -      |        -         |     -     |        -        |       N
+   FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y
+  CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y
+    SCT     |    0.595     |       0.845        |     -      |        -         |     -     |        -        |       Y
+  DLSSVM    |    0.589     |       0.829        |     -      |        -         |     -     |        -        |       Y
+   SAMF     |    0.579     |       0.785        |     -      |        -         |     -     |        -        |       N
+    RPT     |    0.577     |       0.805        |     -      |        -         |     -     |        -        |       N
+   MEEM     |    0.566     |       0.830        |   0.530    |      0.781       |   0.473   |      0.712      |       N
+   DSST     |    0.554     |       0.737        |   0.520    |      0.693       |   0.463   |      0.625      |       N
+    CNT     |    0.545     |       0.723        |     -      |        -         |     -     |        -        |       Y
+   TGPR     |    0.529     |       0.766        |     -      |        -         |     -     |        -        |       N
+    KCF     |    0.514     |       0.740        |   0.477    |      0.693       |   0.403   |      0.611      |       N
+
 ##Visual Trackers
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
@@ -305,58 +345,6 @@
 **[[VOT15_paper_ICCV](http://www.votchallenge.net/vot2015/download/vot_2015_paper.pdf)]The Visual Object Tracking VOT2015 challenge results**
 
 **[[VOT16_paper_ECCV](http://www.votchallenge.net/vot2016/download/vot_2016_paper.pdf)]The Visual Object Tracking VOT2016 challenge results**
-
-##Benchmark Results
-**The trackers are ordered by the average overlap scores.**
-
-* ``AUC`` and ``Precision`` are the standard metrics.
-* ``OS``(overlap success rate at the overlap threshold of 0.5)
-
-```
-sum(overlap_per_image>0.5,2)/29486;
-```
-
-* ``DP``(distance precision at the threshold of 20 pixels)
-
-```
-DP = sum(CLE_per_image<=20,2)/29486;
-```
-
-* ``CLE``(center location error)	
-
-```
-CLE = sum(CLE_per_image,2)/29486
-```
-
-|   Tracker   |   AUC   |   Precision   |   OS (%)   |   DP(%)   |   CLE (pixel)   |   FPS   |   Deep Learning   |
-|:-----------:|:---------:| ----------:| ---------------:| -------:| -------------:|--------:|------------------:|
-|  MDNet  |0.70767|0.94803|-|-|-|-|Y|
-|  C-COT  |0.6725|0.89912|-|-|-|-|N|
-|  SINT+  |0.65517|0.88157|-|-|-|--|Y|
-|  SRDCFdecon  |0.65257|0.86967|-|-|-|-|N|
-|  MUSTer  |0.64107|0.86458|-|-|-|-|N|
-|  DeepSRDCF  |0.64073|0.84881|-|-|-|-|Y|
-|  SINT  |0.63495|0.85064|-|-|-|--|Y|
-|  LCT  |0.62786|0.84802|-|-|-|-|N|
-|  SRDCF  |0.6262|0.83795|-|-|-|-|N|
-|  SiamFC  |0.61217|0.81532|-|-|-|-|Y|
-|  SiamFC_{3s}  |0.60829|0.80922|-|-|-|-|Y|
-|  CF2  |0.60466|0.8907|-|-|-|-|Y|
-|  HDT  |0.60279|0.88853|-|-|-|-|Y|
-|  Staple  |0.59952|0.79256|-|-|-|-|N|
-|  FCNT  |0.59902|0.85587|-|-|-|-|Y|
-|  CNN-SVM  |0.5971|0.85159|-|-|-|-|Y|
-|  SCT  |0.59526|0.84546|-|-|-|-|Y|
-|  DLSSVM  |0.58915|0.82884|-|-|-|-|Y|
-|  SAMF  |0.57935|0.78495|-|-|-|-|N|
-|  RPT  |0.57694|0.8045|-|-|-|-|N|
-|  MEEM  |0.56596|0.83004|-|-|-|-|N|
-|  DSST  |0.55386|0.73705|-|-|-|-|N|
-|  CNT  |0.54475|0.72309|-|-|-|--|Y|
-|  TGPR  |0.5294|0.76612|-|-|-|-|N|
-|  KCF  |0.5138|0.73999|-|-|-|-|N|
-
-
 
 ##Distinguished Researchers & Teams
 Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order, 
