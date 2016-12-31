@@ -7,6 +7,7 @@
 ![cvpr13_result](cvpr13_results.png)
 ![tb_50_result](tb50_results.png)
 ![tb_100_result](tb100_results.png)
+![recent_develop](recent_Tracker_ development.png)
 
 ## Benchmark Results
 
