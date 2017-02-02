@@ -209,6 +209,9 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+* **RLT:** Da Zhang, Hamid Maei, Xin Wang, Yuan-Fang Wang.
+"Deep Reinforcement Learning for Visual Object Tracking in Videos." arXiv (2017). 
+[[paper](https://arxiv.org/pdf/1701.08936v1.pdf)]
 
 * Susanna Gladh, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. 
 "Deep Motion Features for Visual Tracking." ICPR **Best Paper** (2016). 
