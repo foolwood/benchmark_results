@@ -209,6 +209,10 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ##Others
+* **MSDAT:** Xinyu Wang, Hanxi Li, Yi Li, Fumin Shen, Fatih Porikli .
+"Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation." arXiv (2017). 
+[[paper](https://arxiv.org/pdf/1701.00561.pdf)]
+
 * **RLT:** Da Zhang, Hamid Maei, Xin Wang, Yuan-Fang Wang.
 "Deep Reinforcement Learning for Visual Object Tracking in Videos." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1701.08936v1.pdf)]
