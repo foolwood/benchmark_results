@@ -102,9 +102,9 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf)]
 [[project](https://sites.google.com/site/jwchoivision/home/sct)]
 
-* **STCT:** Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, and Jin Young Choi.
+* **STCT:** Lijun Wang1, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu.
 "STCT: Sequentially Training Convolutional Networks for Visual Tracking." CVPR (2016).
-[[paper](http://202.118.75.4/lu/Paper/CVPR2016/wanglijun/0112.pdf)]
+[[paper](http://www.ee.cuhk.edu.hk/~wlouyang/Papers/WangLJ_CVPR16.pdf)]
 [[github](https://github.com/scott89/STCT)]
 
 * **SRDCFdecon:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg. 
