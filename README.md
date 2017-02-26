@@ -61,7 +61,7 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 * **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
 "Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
 [[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
-[project]
+[[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
 
 * **SCF:** Wangmeng Zuo, Xiaohe Wu, Liang Lin, Lei Zhang, Ming-Hsuan Yang. 
 "Learning Support Correlation Filters for Visual Tracking." arXiv (2016).
@@ -273,6 +273,7 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 * **EBT:**Gao Zhu, Fatih Porikli, and Hongdong Li.
 "Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016). 
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)]
+[[exe](http://www.votchallenge.net/vot2016/download/02_EBT.zip)]
 
 * **RATM:**Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic. 
 "RATM: Recurrent Attentive Tracking Model." arXiv (2015). 
@@ -293,6 +294,7 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 * **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
+[[code](http://www.votchallenge.net/vot2016/download/08_SO-DLT.zip)]
 
 * **DLT:**Naiyan Wang and Dit-Yan Yeung. 
 "Learning A Deep Compact Image Representation for Visual Tracking." NIPS (2013). 
@@ -363,8 +365,10 @@ I will continue to supplement this part.)
 * [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
 * [Haibin Ling](http://www.dabi.temple.edu/~hbling/)
 * [Huchuan Lu](http://ice.dlut.edu.cn/lu/)
+* [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/)
 * [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
 * [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
+* [Matej Kristan](http://www.vicos.si/People/Matejk)
 * [João F. Henriques](http://www.robots.ox.ac.uk/~joao/)
 * [Martin Danelljan](http://users.isy.liu.se/cvl/marda26/)
 * [Kaihua Zhang](http://kaihuazhang.net/)
