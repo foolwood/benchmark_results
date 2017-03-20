@@ -16,41 +16,41 @@
 
 - `AUC` and `Precision` are the standard metrics.
 
-  Tracker   | AUC-CVPR2013 | Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50 | Deep Learning
-:---------: | :----------: | :----------------: | :--------: | :--------------: | :-------: | :-------------: | :-----------:
-    ECO     |      -       |         -          |   0.694    |        -         |     -     |        -        |       Y
-   SANet    |      -       |         -          |   0.692    |      0.928       |     -     |        -        |       Y
-   MDNet    |    0.708     |       0.948        |   0.678    |      0.909       |   0.645   |      0.890      |       Y
-   TCNN     |    0.682     |       0.937        |   0.654    |      0.884       |     -     |        -        |       Y
-   C-COT    |    0.673     |       0.899        |   0.671    |      0.898       |   0.614   |      0.843      |       N
-    CRT     |      -       |         -          |   0.644    |      0.875       |   0.594   |      0.835      |       N
-    DNT     |    0.664     |       0.907        |   0.627    |      0.851       |     -     |        -        |       Y
-   SINT+    |    0.655     |       0.882        |     -      |        -         |     -     |        -        |       Y
-SRDCFdecon  |    0.653     |       0.870        |   0.627    |      0.825       |   0.560   |      0.764      |       N
-  MUSTer    |    0.641     |       0.865        |     -      |        -         |     -     |        -        |       N
- DeepSRDCF  |    0.641     |       0.849        |   0.635    |      0.851       |   0.560   |      0.772      |       Y
-   SINT     |    0.635     |       0.851        |     -      |        -         |     -     |        -        |       Y
-    LCT     |    0.628     |       0.848        |   0.562    |      0.762       |   0.492   |      0.691      |       N
-   SRDCF    |    0.626     |       0.838        |   0.598    |      0.789       |   0.539   |      0.732      |       N
-    SCF     |    0.623     |       0.874        |     -      |        -         |     -     |        -        |       N
-  SiamFC    |    0.612     |       0.815        |     -      |        -         |     -     |        -        |       Y
-SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         |     -     |        -        |       Y
-    CF2     |    0.605     |       0.891        |   0.562    |      0.837       |   0.513   |      0.803      |       Y
-    HDT     |    0.603     |       0.889        |   0.654    |      0.848       |   0.515   |      0.804      |       Y
-  Staple    |    0.600     |       0.793        |     -      |        -         |     -     |        -        |       N
-   FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y
-  CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y
-    SCT     |    0.595     |       0.845        |     -      |        -         |     -     |        -        |       Y
-  DLSSVM    |    0.589     |       0.829        |     -      |        -         |     -     |        -        |       Y
-   SAMF     |    0.579     |       0.785        |     -      |        -         |     -     |        -        |       N
-    RPT     |    0.577     |       0.805        |     -      |        -         |     -     |        -        |       N
-   MEEM     |    0.566     |       0.830        |   0.530    |      0.781       |   0.473   |      0.712      |       N
-   DSST     |    0.554     |       0.737        |   0.520    |      0.693       |   0.463   |      0.625      |       N
-    CNT     |    0.545     |       0.723        |     -      |        -         |     -     |        -        |       Y
-   TGPR     |    0.529     |       0.766        |     -      |        -         |     -     |        -        |       N
-    KCF     |    0.514     |       0.740        |   0.477    |      0.693       |   0.403   |      0.611      |       N
+|  Tracker   | AUC-CVPR2013 | Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50 | Deep Learning
+|:---------: | :----------: | :----------------: | :--------: | :--------------: | :-------: | :-------------: | :-----------:
+|    ECO     |      -       |         -          |   0.694    |        -         |     -     |        -        |       Y
+|   SANet    |      -       |         -          |   0.692    |      0.928       |     -     |        -        |       Y
+|   MDNet    |    0.708     |       0.948        |   0.678    |      0.909       |   0.645   |      0.890      |       Y
+|   TCNN     |    0.682     |       0.937        |   0.654    |      0.884       |     -     |        -        |       Y
+|   C-COT    |    0.673     |       0.899        |   0.671    |      0.898       |   0.614   |      0.843      |       N
+|    CRT     |      -       |         -          |   0.644    |      0.875       |   0.594   |      0.835      |       N
+|    DNT     |    0.664     |       0.907        |   0.627    |      0.851       |     -     |        -        |       Y
+|   SINT+    |    0.655     |       0.882        |     -      |        -         |     -     |        -        |       Y
+|SRDCFdecon  |    0.653     |       0.870        |   0.627    |      0.825       |   0.560   |      0.764      |       N
+|  MUSTer    |    0.641     |       0.865        |     -      |        -         |     -     |        -        |       N
+| DeepSRDCF  |    0.641     |       0.849        |   0.635    |      0.851       |   0.560   |      0.772      |       Y
+|   SINT     |    0.635     |       0.851        |     -      |        -         |     -     |        -        |       Y
+|    LCT     |    0.628     |       0.848        |   0.562    |      0.762       |   0.492   |      0.691      |       N
+|   SRDCF    |    0.626     |       0.838        |   0.598    |      0.789       |   0.539   |      0.732      |       N
+|    SCF     |    0.623     |       0.874        |     -      |        -         |     -     |        -        |       N
+|  SiamFC    |    0.612     |       0.815        |     -      |        -         |     -     |        -        |       Y
+|SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         |     -     |        -        |       Y
+|    CF2     |    0.605     |       0.891        |   0.562    |      0.837       |   0.513   |      0.803      |       Y
+|    HDT     |    0.603     |       0.889        |   0.654    |      0.848       |   0.515   |      0.804      |       Y
+|  Staple    |    0.600     |       0.793        |     -      |        -         |     -     |        -        |       N
+|   FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y
+|  CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y
+|    SCT     |    0.595     |       0.845        |     -      |        -         |     -     |        -        |       Y
+|  DLSSVM    |    0.589     |       0.829        |     -      |        -         |     -     |        -        |       Y
+|   SAMF     |    0.579     |       0.785        |     -      |        -         |     -     |        -        |       N
+|    RPT     |    0.577     |       0.805        |     -      |        -         |     -     |        -        |       N
+|   MEEM     |    0.566     |       0.830        |   0.530    |      0.781       |   0.473   |      0.712      |       N
+|   DSST     |    0.554     |       0.737        |   0.520    |      0.693       |   0.463   |      0.625      |       N
+|    CNT     |    0.545     |       0.723        |     -      |        -         |     -     |        -        |       Y
+|   TGPR     |    0.529     |       0.766        |     -      |        -         |     -     |        -        |       N
+|    KCF     |    0.514     |       0.740        |   0.477    |      0.693       |   0.403   |      0.611      |       N
 
-##Visual Trackers
+## Visual Trackers
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
@@ -209,7 +209,7 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
-##Others
+## Others
 * **MSDAT:** Xinyu Wang, Hanxi Li, Yi Li, Fumin Shen, Fatih Porikli .
 "Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1701.00561.pdf)]
@@ -270,33 +270,33 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[paper](http://120.52.73.78/arxiv.org/pdf/1608.08171v1.pdf)]
 [project]
 
-* **EBT:**Gao Zhu, Fatih Porikli, and Hongdong Li.
+* **EBT:** Gao Zhu, Fatih Porikli, and Hongdong Li.
 "Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals." CVPR (2016). 
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf)]
 [[exe](http://www.votchallenge.net/vot2016/download/02_EBT.zip)]
 
-* **RATM:**Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic. 
+* **RATM:** Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic. 
 "RATM: Recurrent Attentive Tracking Model." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1510.08660v4.pdf)]
 [[github](https://github.com/saebrahimi/RATM)]
 
-* **DAT:**Horst Possegger, Thomas Mauthner, and Horst Bischof. 
+* **DAT:** Horst Possegger, Thomas Mauthner, and Horst Bischof. 
 "In Defense of Color-based Model-free Tracking." CVPR (2015). 
 [[paper](https://lrs.icg.tugraz.at/pubs/possegger_cvpr15.pdf)]
 [[project](https://lrs.icg.tugraz.at/members/possegger)]
 [[code](https://lrs.icg.tugraz.at/downloads/dat-v1.0.zip)]
 
-* **RAJSSC:**Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu. 
+* **RAJSSC:** Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu. 
 "Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation." ICCV workshop (2015). 
 [[paper](http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w14/papers/Zhang_Joint_Scale-Spatial_Correlation_ICCV_2015_paper.pdf)]
 [[poster](http://www.votchallenge.net/vot2015/download/poster_Mengdan_Zhang.pdf)]
 
-* **SO-DLT:**Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
+* **SO-DLT:** Naiyan Wang, Siyi Li, Abhinav Gupta, Dit-Yan Yeung. 
 "Transferring Rich Feature Hierarchies for Robust Visual Tracking." arXiv (2015). 
 [[paper](https://arxiv.org/pdf/1501.04587v2.pdf)]
 [[code](http://www.votchallenge.net/vot2016/download/08_SO-DLT.zip)]
 
-* **DLT:**Naiyan Wang and Dit-Yan Yeung. 
+* **DLT:** Naiyan Wang and Dit-Yan Yeung. 
 "Learning A Deep Compact Image Representation for Visual Tracking." NIPS (2013). 
 [[paper](http://winsty.net/papers/dlt.pdf)]
 [[project](http://winsty.net/dlt.html)]
@@ -308,23 +308,23 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[project](http://winsty.net/tracker_diagnose.html)]
 [[code](http://winsty.net/diagnose/diagnose_code.zip)]
 
-* **Dataset-MoBe2016:**Luka Čehovin, Alan Lukežič, Aleš Leonardis, Matej Kristan.
+* **Dataset-MoBe2016:** Luka Čehovin, Alan Lukežič, Aleš Leonardis, Matej Kristan.
 "Beyond standard benchmarks: Parameterizing performance evaluation in visual object tracking." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1612.00089v1.pdf)]
 
-* **Dataset-UAV123:**Matthias Mueller, Neil Smith and Bernard Ghanem.
+* **Dataset-UAV123:** Matthias Mueller, Neil Smith and Bernard Ghanem.
 "A Benchmark and Simulator for UAV Tracking." ECCV (2016)
 [[paper](https://ivul.kaust.edu.sa/Documents/Publications/2016/A%20Benchmark%20and%20Simulator%20for%20UAV%20Tracking.pdf)]
 [[project](https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx)]
 [[dataset](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
 
-* **Dataset-TColor-128:**Pengpeng Liang, Erik Blasch, Haibin Ling.
+* **Dataset-TColor-128:** Pengpeng Liang, Erik Blasch, Haibin Ling.
 "Encoding color information for visual tracking: Algorithms and benchmark." TIP (2015)
 [[paper](http://www.dabi.temple.edu/~hbling/publication/TColor-128.pdf)]
 [[project](http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html)]
 [[dataset](http://www.dabi.temple.edu/~hbling/data/TColor-128/Temple-color-128.zip)]
 
-* **Dataset-NUS-PRO:**Annan Li, Min Lin, Yi Wu, Ming-Hsuan Yang, and Shuicheng Yan.
+* **Dataset-NUS-PRO:** Annan Li, Min Lin, Yi Wu, Ming-Hsuan Yang, and Shuicheng Yan.
 "NUS-PRO: A New Visual Tracking Challenge." PAMI (2015)
 [[paper](http://faculty.ucmerced.edu/mhyang/papers/pami15_nus_pro.pdf)]
 [[project](https://sites.google.com/site/li00annan/nus-pro)]
@@ -333,14 +333,14 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 [[View_360](https://6aa275.lc.yunpan.cn/lk/cqK479PfzDrPX)(code:515a)]
 [[View_baidu]](https://pan.baidu.com/s/1hqKXcuK)]
 
-* **Dataset-PTB:**Shuran Song and Jianxiong Xiao.
+* **Dataset-PTB:** Shuran Song and Jianxiong Xiao.
 "Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines." ICCV (2013)
 [[paper](http://vision.princeton.edu/projects/2013/tracking/paper.pdf)]
 [[project](http://tracking.cs.princeton.edu/)]
 [[5 validation](http://tracking.cs.princeton.edu/ValidationSet.zip)]
 [[95 evaluation](http://tracking.cs.princeton.edu/EvaluationSet.tgz)]
 
-* **Dataset-ALOV300+:**Arnold W. M. Smeulders, Dung M. Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah.
+* **Dataset-ALOV300+:** Arnold W. M. Smeulders, Dung M. Chu, Rita Cucchiara, Simone Calderara, Afshin Dehghan, Mubarak Shah.
 "Visual Tracking: An Experimental Survey." PAMI (2014)
 [[paper](http://crcv.ucf.edu/papers/Tracking_Survey.pdf)]
 [[project](http://imagelab.ing.unimore.it/dsm/)]
@@ -358,7 +358,7 @@ SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         
 
 **[[VOT16_paper_ECCV](http://www.votchallenge.net/vot2016/download/vot_2016_paper.pdf)]The Visual Object Tracking VOT2016 challenge results**
 
-##Distinguished Researchers & Teams
+## Distinguished Researchers & Teams
 Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order, 
 I will continue to supplement this part.)
 
