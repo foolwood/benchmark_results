@@ -52,6 +52,11 @@
 
 ## Visual Trackers
 
+* **LMCF:** Mengmeng Wang, Yong Liu, Zeyi Huang. 
+"Large Margin Object Tracking with Circulant Feature Maps." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1703.05020.pdf)]
+[[zhihu](https://zhuanlan.zhihu.com/p/25761718))]
+
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v2.pdf)]
