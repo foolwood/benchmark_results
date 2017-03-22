@@ -26,52 +26,67 @@
 |    CRT     |      -       |         -          |   0.644    |      0.875       |   0.594   |      0.835      |       N
 |    DNT     |    0.664     |       0.907        |   0.627    |      0.851       |     -     |        -        |       Y
 |   SINT+    |    0.655     |       0.882        |     -      |        -         |     -     |        -        |       Y
+|    DRT     |    0.655     |       0.892        |     -      |        -         |     -     |        -        |       Y
+|    RDT     |    0.654     |         -          |   0.603    |        -         |     -     |        -        |       Y
 |SRDCFdecon  |    0.653     |       0.870        |   0.627    |      0.825       |   0.560   |      0.764      |       N
-|  MUSTer    |    0.641     |       0.865        |     -      |        -         |     -     |        -        |       N
+|  DeepLMCF  |    0.643     |       0.892        |     -      |        -         |     -     |        -        |       Y
+|  MUSTer    |    0.641     |       0.865        |   0.575    |      0.774       |     -     |        -        |       N
 | DeepSRDCF  |    0.641     |       0.849        |   0.635    |      0.851       |   0.560   |      0.772      |       Y
 |   SINT     |    0.635     |       0.851        |     -      |        -         |     -     |        -        |       Y
 |    LCT     |    0.628     |       0.848        |   0.562    |      0.762       |   0.492   |      0.691      |       N
 |   SRDCF    |    0.626     |       0.838        |   0.598    |      0.789       |   0.539   |      0.732      |       N
+|   LMCF     |    0.624     |       0.839        |     -      |        -         |     -     |        -        |       N
 |    SCF     |    0.623     |       0.874        |     -      |        -         |     -     |        -        |       N
 |  SiamFC    |    0.612     |       0.815        |     -      |        -         |     -     |        -        |       Y
-|SiamFC_{3s} |    0.608     |       0.809        |     -      |        -         |     -     |        -        |       Y
+|SiamFC_{3s} |    0.608     |       0.809        |   0.582    |      0.773       |     -     |        -        |       Y
 |    CF2     |    0.605     |       0.891        |   0.562    |      0.837       |   0.513   |      0.803      |       Y
 |    HDT     |    0.603     |       0.889        |   0.654    |      0.848       |   0.515   |      0.804      |       Y
-|  Staple    |    0.600     |       0.793        |     -      |        -         |     -     |        -        |       N
+|  Staple    |    0.600     |       0.793        |   0.578    |      0.784       |     -     |        -        |       N
 |   FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y
 |  CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y
 |    SCT     |    0.595     |       0.845        |     -      |        -         |     -     |        -        |       Y
-|  DLSSVM    |    0.589     |       0.829        |     -      |        -         |     -     |        -        |       Y
-|   SAMF     |    0.579     |       0.785        |     -      |        -         |     -     |        -        |       N
+|  SO-DLT    |    0.595     |       0.810        |     -      |        -         |     -     |        -        |       Y
+|    BIT     |    0.593     |       0.817        |     -      |        -         |     -     |        -        |       N
+|  DLSSVM    |    0.589     |       0.829        |   0.541    |      0.767       |     -     |        -        |       Y
+|   SAMF     |    0.579     |       0.785        |   0.535    |      0.743       |     -     |        -        |       N
 |    RPT     |    0.577     |       0.805        |     -      |        -         |     -     |        -        |       N
 |   MEEM     |    0.566     |       0.830        |   0.530    |      0.781       |   0.473   |      0.712      |       N
 |   DSST     |    0.554     |       0.737        |   0.520    |      0.693       |   0.463   |      0.625      |       N
 |    CNT     |    0.545     |       0.723        |     -      |        -         |     -     |        -        |       Y
-|   TGPR     |    0.529     |       0.766        |     -      |        -         |     -     |        -        |       N
+|   TGPR     |    0.529     |       0.766        |   0.458    |      0.643       |     -     |        -        |       N
 |    KCF     |    0.514     |       0.740        |   0.477    |      0.693       |   0.403   |      0.611      |       N
+|   GOTURN   |    0.444     |       0.620        |   0.427    |      0.572       |     -     |        -        |       Y
 
 ## Visual Trackers
+
+* **DNT:** Zhizhen Chi, Hongyang Li, Huchuan Lu, Ming-Hsuan Yang. 
+"Dual Deep Network for Visual Tracking." TIP (2017). 
+[[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
+
+* **DRT:** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang, Changsheng Xu. 
+"Deep Relative Tracking." TIP (2017). 
+[[paper](http://ieeexplore.ieee.org/abstract/document/7828108/)]
+
+* **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
+"ECO: Efficient Convolution Operators for Tracking." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1611.09224v1.pdf)]
 
 * **LMCF:** Mengmeng Wang, Yong Liu, Zeyi Huang. 
 "Large Margin Object Tracking with Circulant Feature Maps." CVPR (2017). 
 [[paper](https://arxiv.org/pdf/1703.05020.pdf)]
-[[zhihu](https://zhuanlan.zhihu.com/p/25761718))]
+[[zhihu](https://zhuanlan.zhihu.com/p/25761718)]
+
+* **BIT:** Bolun Cai, Xiangmin Xu, Xiaofen Xing, Kui Jia, Jie Miao, Dacheng Tao.
+"BIT: Biologically Inspired Tracker." TIP (2016). 
+[[paper](http://caibolun.github.io/papers/BIT_TIP.pdf)]
+[[project](http://caibolun.github.io/BIT/index.html)]
+[[github](https://github.com/caibolun/BIT)]
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
 [[paper](http://120.52.73.78/arxiv.org/pdf/1606.09549v2.pdf)]
 [[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
 [[github](https://github.com/bertinetto/siamese-fc)]
-
-* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
-"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
-[[paper](http://120.52.73.76/arxiv.org/pdf/1608.07242v1.pdf)]
-[[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
-
-* **SCF:** Wangmeng Zuo, Xiaohe Wu, Liang Lin, Lei Zhang, Ming-Hsuan Yang. 
-"Learning Support Correlation Filters for Visual Tracking." arXiv (2016).
-[[paper](https://arxiv.org/pdf/1601.06032.pdf)]
-[[project](http://faculty.ucmerced.edu/mhyang/project/scf/)]
 
 * **GOTURN:** David Held, Sebastian Thrun, Silvio Savarese. 
 "Learning to Track at 100 FPS with Deep Regression Networks." ECCV (2016). 
@@ -215,6 +230,11 @@
 [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
 
 ## Others
+
+* **RDT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. 
+"Visual Tracking by Reinforced Decision Making." arXiv (2017). 
+[[paper](https://arxiv.org/pdf/1702.06291.pdf)]
+
 * **MSDAT:** Xinyu Wang, Hanxi Li, Yi Li, Fumin Shen, Fatih Porikli .
 "Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1701.00561.pdf)]
@@ -223,17 +243,19 @@
 "Deep Reinforcement Learning for Visual Object Tracking in Videos." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1701.08936v1.pdf)]
 
+* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
+"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
+[[paper](http://arxiv.org/pdf/1608.07242v1.pdf)]
+[[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
+
+* **SCF:** Wangmeng Zuo, Xiaohe Wu, Liang Lin, Lei Zhang, Ming-Hsuan Yang. 
+"Learning Support Correlation Filters for Visual Tracking." arXiv (2016).
+[[paper](https://arxiv.org/pdf/1601.06032.pdf)]
+[[project](http://faculty.ucmerced.edu/mhyang/project/scf/)]
+
 * Susanna Gladh, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. 
 "Deep Motion Features for Visual Tracking." ICPR **Best Paper** (2016). 
 [[paper](https://arxiv.org/pdf/1612.06615v1.pdf)]
-
-* **DNT:** Zhizhen Chi, Hongyang Li, Huchuan Lu, Ming-Hsuan Yang. 
-"Dual Deep Network for Visual Tracking." arXiv (2016). 
-[[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
-
-* **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
-"ECO: Efficient Convolution Operators for Tracking." arXiv (2016). 
-[[paper](https://arxiv.org/pdf/1611.09224v1.pdf)]
 
 * **SANet:** Heng Fan, Haibin Ling. 
 "SANet: Structure-Aware Network for Visual Tracking." arXiv (2016). 
