@@ -374,6 +374,12 @@
 [Mirror Link:ALOV300++ Dataset](http://crcv.ucf.edu/people/phd_students/afshin/ALOV300/Frames.zip)
 [Mirror Link:ALOV300++ Groundtruth](http://crcv.ucf.edu/people/phd_students/afshin/ALOV300/GT.zip)
 
+* **Dataset-DTB70:** Siyi Li, Dit-Yan Yeung.
+"Visual Object Tracking for Unmanned Aerial Vehicles: A Benchmark and New Motion Models." AAAI (2017)
+[[paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14338/14292)]
+[[project](https://github.com/flyers/drone-tracking)]
+[[dataset](https://www.dropbox.com/s/s1fj99s2six4lrs/DTB70.tar.gz?dl=0)]
+
 * **Dataset-VOT:**
 **[[project](http://www.votchallenge.net/)]**
 
