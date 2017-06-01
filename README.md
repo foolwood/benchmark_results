@@ -59,6 +59,71 @@
 
 ## Visual Trackers
 
+* **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
+"ECO: Efficient Convolution Operators for Tracking." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1611.09224.pdf)]
+[[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html)]
+[[github](https://github.com/martin-danelljan/ECO)]
+
+* **CFNet:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
+"End-to-end representation learning for Correlation Filter based tracking." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1704.06036v1.pdf)]
+[[project](http://www.robots.ox.ac.uk/~luca/cfnet.html)]
+[[github](https://github.com/bertinetto/cfnet)]
+
+* **CACF:** Matthias Mueller, Neil Smith, Bernard Ghanem. 
+"Context-Aware Correlation Filter Tracking." CVPR (2017 **oral**). 
+[[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
+[[project](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)]
+[[code](https://github.com/thias15/Context-Aware-CF-Tracking)]
+
+* **RaF:** Le Zhang, Jagannadan Varadarajan, Ponnuthurai Nagaratnam Suganthan, Narendra Ahuja and Pierre Moulin
+"Robust Visual Tracking Using Oblique Random Forests." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1703.04590.pdf)]
+[[project](https://sites.google.com/site/zhangleuestc/incremental-oblique-random-forest)]
+[[code](https://github.com/ZhangLeUestc/Incremental-Oblique-Random-Forest)]
+
+* **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang. 
+"Multi-task Correlation Particle Filter for Robust Visual Tracking ." CVPR (2017). 
+[[paper](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/CVPR2017/1758.pdf)]
+[[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/mcpf.html)]
+[[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/mcpf.html)]
+
+* **ACFN:** Jongwon Choi, Hyung Jin Chang, Sangdoo Yun, Tobias Fischer, Yiannis Demiris, and Jin Young Choi.
+"Attentional Correlation Filter Network for Adaptive Visual Tracking." CVPR (2017)
+[[paper](https://drive.google.com/file/d/0B0ZkG8zaRQoLUHdlTGNtUWFjd1E/view)]
+[[project](https://sites.google.com/site/jwchoivision/home/acfn-1)]
+[[test code](https://drive.google.com/file/d/0B0ZkG8zaRQoLQUswbW9qSWFaU0U/view?usp=drive_web))]
+[[training code](https://drive.google.com/file/d/0B0ZkG8zaRQoLZVVranBnbHlydnM/view?usp=drive_web)]
+
+* **LMCF:** Mengmeng Wang, Yong Liu, Zeyi Huang. 
+"Large Margin Object Tracking with Circulant Feature Maps." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1703.05020.pdf)]
+[[zhihu](https://zhuanlan.zhihu.com/p/25761718)]
+
+* **ADNet:** Sangdoo Yun, Jongwon Choi, Youngjoon Yoo, Kimin Yun, Jin Young Choi.
+"Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning 
+." CVPR (2017). 
+[[paper](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU)]
+[[project](https://sites.google.com/view/cvpr2017-adnet)]
+
+* **CSR-DCF:** Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas, Matej Kristan. 
+"Discriminative Correlation Filter with Channel and Spatial Reliability." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
+
+* **BACF:** Hamed Kiani Galoogahi, Ashton Fagg, Simon Lucey. 
+"Learning Background-Aware Correlation Filters for Visual Tracking." CVPR (2017). 
+[[paper](https://arxiv.org/pdf/1703.04590.pdf)]
+
+* Bohyung Han, Jack Sim, Hartwig Adam
+"BranchOut: Regularization for Online Ensemble Tracking with Convolutional Neural Networks." CVPR (2017). 
+
+* **SANet:** Heng Fan, Haibin Ling. 
+"SANet: Structure-Aware Network for Visual Tracking." CVPRW (2017). 
+[[paper](https://arxiv.org/pdf/1611.06878.pdf)]
+[[project](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html)]
+[[code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip)]
+
 * **DNT:** Zhizhen Chi, Hongyang Li, Huchuan Lu, Ming-Hsuan Yang. 
 "Dual Deep Network for Visual Tracking." TIP (2017). 
 [[paper](https://arxiv.org/pdf/1612.06053v1.pdf)]
@@ -66,15 +131,6 @@
 * **DRT:** Junyu Gao, Tianzhu Zhang, Xiaoshan Yang, Changsheng Xu. 
 "Deep Relative Tracking." TIP (2017). 
 [[paper](http://ieeexplore.ieee.org/abstract/document/7828108/)]
-
-* **ECO:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. 
-"ECO: Efficient Convolution Operators for Tracking." CVPR (2017). 
-[[paper](https://arxiv.org/pdf/1611.09224v1.pdf)]
-
-* **LMCF:** Mengmeng Wang, Yong Liu, Zeyi Huang. 
-"Large Margin Object Tracking with Circulant Feature Maps." CVPR (2017). 
-[[paper](https://arxiv.org/pdf/1703.05020.pdf)]
-[[zhihu](https://zhuanlan.zhihu.com/p/25761718)]
 
 * **BIT:** Bolun Cai, Xiangmin Xu, Xiaofen Xing, Kui Jia, Jie Miao, Dacheng Tao.
 "BIT: Biologically Inspired Tracker." TIP (2016). 
@@ -231,6 +287,22 @@
 
 ## Others
 
+* **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
+"Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
+[[paper](https://arxiv.org/pdf/1705.06368.pdf)]
+[[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
+
+
+* **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
+"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2017). 
+[[paper](https://arxiv.org/pdf/1704.04057.pdf)]
+[[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
+
+* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
+"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
+[[paper](http://arxiv.org/pdf/1608.07242v1.pdf)]
+[[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
+
 * **RDT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. 
 "Visual Tracking by Reinforced Decision Making." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1702.06291.pdf)]
@@ -243,23 +315,14 @@
 "Deep Reinforcement Learning for Visual Object Tracking in Videos." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1701.08936v1.pdf)]
 
-* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
-"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
-[[paper](http://arxiv.org/pdf/1608.07242v1.pdf)]
-[[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
-
 * **SCF:** Wangmeng Zuo, Xiaohe Wu, Liang Lin, Lei Zhang, Ming-Hsuan Yang. 
 "Learning Support Correlation Filters for Visual Tracking." arXiv (2016).
 [[paper](https://arxiv.org/pdf/1601.06032.pdf)]
 [[project](http://faculty.ucmerced.edu/mhyang/project/scf/)]
 
-* Susanna Gladh, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. 
+* **DMSRDCF:** Susanna Gladh, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg. 
 "Deep Motion Features for Visual Tracking." ICPR **Best Paper** (2016). 
 [[paper](https://arxiv.org/pdf/1612.06615v1.pdf)]
-
-* **SANet:** Heng Fan, Haibin Ling. 
-"SANet: Structure-Aware Network for Visual Tracking." arXiv (2016). 
-[[paper](https://arxiv.org/pdf/1611.06878v1.pdf)]
 
 * **CRT:** Kai Chen, Wenbing Tao. 
 "Convolutional Regression for Visual Tracking." arXiv (2016). 
@@ -268,10 +331,6 @@
 * **BMR:** Kaihua Zhang, Qingshan Liu, and Ming-Hsuan Yang. 
 "Visual Tracking via Boolean Map Representations." arXiv (2016). 
 [[paper](https://arxiv.org/pdf/1610.09652v1.pdf)]
-
-* **CSR-DCF:** Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas, Matej Kristan. 
-"Discriminative Correlation Filter with Channel and Spatial Reliability." arXiv (2016). 
-[[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
 
 * **YCNN:** Kai Chen, Wenbing Tao. 
 "Once for All: a Two-flow Convolutional Neural Network for Visual Tracking." arXiv (2016). 
@@ -310,7 +369,7 @@
 * **DAT:** Horst Possegger, Thomas Mauthner, and Horst Bischof. 
 "In Defense of Color-based Model-free Tracking." CVPR (2015). 
 [[paper](https://lrs.icg.tugraz.at/pubs/possegger_cvpr15.pdf)]
-[[project](https://lrs.icg.tugraz.at/members/possegger)]
+[[project](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/dat)]
 [[code](https://lrs.icg.tugraz.at/downloads/dat-v1.0.zip)]
 
 * **RAJSSC:** Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu. 
