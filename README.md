@@ -90,10 +90,10 @@
 [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/mcpf.html)]
 
 * **ACFN:** Jongwon Choi, Hyung Jin Chang, Sangdoo Yun, Tobias Fischer, Yiannis Demiris, and Jin Young Choi.
-"Attentional Correlation Filter Network for Adaptive Visual Tracking." CVPR (2017)
+"Attentional Correlation Filter Network for Adaptive Visual Tracking." CVPR (2017).
 [[paper](https://drive.google.com/file/d/0B0ZkG8zaRQoLUHdlTGNtUWFjd1E/view)]
 [[project](https://sites.google.com/site/jwchoivision/home/acfn-1)]
-[[test code](https://drive.google.com/file/d/0B0ZkG8zaRQoLQUswbW9qSWFaU0U/view?usp=drive_web))]
+[[test code](https://drive.google.com/file/d/0B0ZkG8zaRQoLQUswbW9qSWFaU0U/view?usp=drive_web)]
 [[training code](https://drive.google.com/file/d/0B0ZkG8zaRQoLZVVranBnbHlydnM/view?usp=drive_web)]
 
 * **LMCF:** Mengmeng Wang, Yong Liu, Zeyi Huang. 
@@ -103,7 +103,7 @@
 
 * **ADNet:** Sangdoo Yun, Jongwon Choi, Youngjoon Yoo, Kimin Yun, Jin Young Choi.
 "Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning 
-." CVPR (2017). 
+." CVPR (2017 **Spotlight**). 
 [[paper](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU)]
 [[project](https://sites.google.com/view/cvpr2017-adnet)]
 
@@ -115,8 +115,11 @@
 "Learning Background-Aware Correlation Filters for Visual Tracking." CVPR (2017). 
 [[paper](https://arxiv.org/pdf/1703.04590.pdf)]
 
-* Bohyung Han, Jack Sim, Hartwig Adam
+* Bohyung Han, Jack Sim, Hartwig Adam.
 "BranchOut: Regularization for Online Ensemble Tracking with Convolutional Neural Networks." CVPR (2017). 
+
+* Donghun Yeo, Jeany Son, Bohyung Han, Joonhee Han.
+""Superpixel-based Tracking-by-Segmentation using Markov Chains." CVPR (2017).
 
 * **SANet:** Heng Fan, Haibin Ling. 
 "SANet: Structure-Aware Network for Visual Tracking." CVPRW (2017). 
