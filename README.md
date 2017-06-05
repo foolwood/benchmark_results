@@ -73,13 +73,13 @@
 
 * **CACF:** Matthias Mueller, Neil Smith, Bernard Ghanem. 
 "Context-Aware Correlation Filter Tracking." CVPR (2017 **oral**). 
-[[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
+[[paper](https://ivul.kaust.edu.sa/Documents/Publications/2017/Context-Aware%20Correlation%20Filter%20Tracking.pdf)]
 [[project](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)]
 [[code](https://github.com/thias15/Context-Aware-CF-Tracking)]
 
 * **RaF:** Le Zhang, Jagannadan Varadarajan, Ponnuthurai Nagaratnam Suganthan, Narendra Ahuja and Pierre Moulin
 "Robust Visual Tracking Using Oblique Random Forests." CVPR (2017). 
-[[paper](https://arxiv.org/pdf/1703.04590.pdf)]
+[[paper](https://drive.google.com/file/d/0B9nwWnaaZcNWNXpDT29yc0M5a1k/view)]
 [[project](https://sites.google.com/site/zhangleuestc/incremental-oblique-random-forest)]
 [[code](https://github.com/ZhangLeUestc/Incremental-Oblique-Random-Forest)]
 
