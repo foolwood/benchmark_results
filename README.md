@@ -295,9 +295,8 @@
 [[paper](https://arxiv.org/pdf/1705.06368.pdf)]
 [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
-
 * **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
-"Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2017). 
+"DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
 [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
