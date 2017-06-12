@@ -1,4 +1,4 @@
-#Trackers
+# Trackers
 
 * **SiameseFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
 "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
@@ -365,7 +365,7 @@
 }
 ```
 
-##Others
+## Others
 
 * **CRT:** Kai Chen, Wenbing Tao. 
 "Convolutional Regression for Visual Tracking." arXiv (2016). 
