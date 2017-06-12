@@ -110,6 +110,7 @@
 * **CSR-DCF:** Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas, Matej Kristan. 
 "Discriminative Correlation Filter with Channel and Spatial Reliability." CVPR (2017). 
 [[paper](https://arxiv.org/pdf/1611.08461v1.pdf)]
+[[code](https://github.com/alanlukezic/csr-dcf)]
 
 * **BACF:** Hamed Kiani Galoogahi, Ashton Fagg, Simon Lucey. 
 "Learning Background-Aware Correlation Filters for Visual Tracking." CVPR (2017). 
@@ -293,7 +294,6 @@
 * **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
 "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
 [[paper](https://arxiv.org/pdf/1705.06368.pdf)]
-[[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
 
 * **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
 "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
