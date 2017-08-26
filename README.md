@@ -80,13 +80,14 @@
 * **BACF:** Hamed Kiani Galoogahi, Ashton Fagg, Simon Lucey. 
   "Learning Background-Aware Correlation Filters for Visual Tracking." ICCV (2017). 
   [[paper](https://arxiv.org/pdf/1703.04590.pdf)]
+  [[supp](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/436_sup.pdf)]
 
 * **TSNT:** Zhu Teng, Junliang Xing, Qiang Wang, Congyan Lang, Songhe Feng and Yi Jin.
   "Robust Object Tracking based on Temporal and Spatial Deep Networks." ICCV (2017).
 
 * **RFL:** Tianyu Yang, Antoni B. Chan. 
   "Recurrent Filter Learning for Visual Tracking." ICCV workshop(2017). 
-  [[paper](https://arxiv.org/pdf/1703.04590.pdf)]
+  [[paper](https://arxiv.org/pdf/1708.03874.pdf)]
 
 ### CVPR2017
 
