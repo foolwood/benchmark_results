@@ -67,7 +67,7 @@
   [[project](http://www.cs.cityu.edu.hk/~yibisong/iccv17/index.html)]
   [[github](https://github.com/ybsong00/CREST-Release)]
 
-* **EAST:** Chen Huang, Simon Lucey, Deva Ramanan.. 
+* **EAST:** Chen Huang, Simon Lucey, Deva Ramanan.
   "Learning Policies for Adaptive Tracking with Deep Feature Cascades." ICCV (2017 **Spotlight**). 
   [[paper](https://arxiv.org/pdf/1708.02973v1.pdf)]
 
@@ -85,9 +85,21 @@
 * **TSNT:** Zhu Teng, Junliang Xing, Qiang Wang, Congyan Lang, Songhe Feng and Yi Jin.
   "Robust Object Tracking based on Temporal and Spatial Deep Networks." ICCV (2017).
 
+* **p-tracker:** James Supančič, III; Deva Ramanan.
+  "Tracking as Online Decision-Making: Learning a Policy From Streaming Videos With Reinforcement Learning." ICCV (2017).
+  [[paper](https://arxiv.org/pdf/1707.04991.pdf)]
+
+* **DSiam:** Qing Guo; Wei Feng; Ce Zhou; Rui Huang; Liang Wan; Song Wang.
+  "Learning Dynamic Siamese Network for Visual Object Tracking." ICCV (2017).
+  [[paper](https://www.researchgate.net/publication/318910124_Learning_Dynamic_Siamese_Network_for_Visual_Object_Tracking)]
+
+* **:** Xin Sun; Ngai-Man Cheung; Hongxun Yao; Yiluan Guo.
+  "Non-Rigid Object Tracking via Deformable Patches Using Shape-Preserved KCF and Level Sets." ICCV (2017).
+
 * **RFL:** Tianyu Yang, Antoni B. Chan. 
   "Recurrent Filter Learning for Visual Tracking." ICCV workshop(2017). 
   [[paper](https://arxiv.org/pdf/1708.03874.pdf)]
+
 
 ### CVPR2017
 
@@ -465,6 +477,10 @@
 
 ## Benchmark
 
+* **Dataset-AMP:** Luka Čehovin Zajc; Alan Lukežič; Aleš Leonardis; Matej Kristan.
+  "Beyond Standard Benchmarks: Parameterizing Performance Evaluation in Visual Object Tracking." ICCV (2017).
+  [[paper](https://arxiv.org/pdf/1612.00089.pdf)]
+
 * **Dataset-Nfs:** Hamed Kiani Galoogahi, Ashton Fagg, Chen Huang, Deva Ramanan and Simon Lucey.
   "Need for Speed: A Benchmark for Higher Frame Rate Object Tracking." ICCV (2017)
   [[paper](https://arxiv.org/pdf/1703.05884.pdf)]
@@ -475,10 +491,6 @@
   [[paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14338/14292)]
   [[project](https://github.com/flyers/drone-tracking)]
   [[dataset](https://www.dropbox.com/s/s1fj99s2six4lrs/DTB70.tar.gz?dl=0)]
-
-* **Dataset-MoBe2016:** Luka Čehovin, Alan Lukežič, Aleš Leonardis, Matej Kristan.
-  "Beyond standard benchmarks: Parameterizing performance evaluation in visual object tracking." arXiv (2016). 
-  [[paper](https://arxiv.org/pdf/1612.00089v1.pdf)]
 
 * **Dataset-UAV123:** Matthias Mueller, Neil Smith and Bernard Ghanem.
   "A Benchmark and Simulator for UAV Tracking." ECCV (2016)
