@@ -94,7 +94,7 @@
 * **PTAV:** Heng Fan and Haibin Ling. 
   "Parallel Tracking and Verifying: A Framework for Real-Time and High Accuracy Visual Tracking." ICCV (2017). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Parallel_Tracking_and_ICCV_2017_paper.pdf)]
-  [(supp)(http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Fan_Parallel_Tracking_and_ICCV_2017_supplemental.pdf)]
+  [[supp](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Fan_Parallel_Tracking_and_ICCV_2017_supplemental.pdf)]
   [[project](http://www.dabi.temple.edu/~hbling/code/PTAV/ptav.htm)]
   [[code](http://www.dabi.temple.edu/~hbling/code/PTAV/serial_ptav_v1.zip)]
 
