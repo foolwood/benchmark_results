@@ -102,6 +102,8 @@
   "Learning Background-Aware Correlation Filters for Visual Tracking." ICCV (2017). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Galoogahi_Learning_Background-Aware_Correlation_ICCV_2017_paper.pdf)]
   [[supp](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Galoogahi_Learning_Background-Aware_Correlation_ICCV_2017_supplemental.pdf)]
+  [[code](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/bacf_toupload.zip)]
+  [[project](http://www.hamedkiani.com/bacf.html)]
 
 * **TSN:** Zhu Teng, Junliang Xing, Qiang Wang, Congyan Lang, Songhe Feng and Yi Jin.
   "Robust Object Tracking based on Temporal and Spatial Deep Networks." ICCV (2017).
@@ -135,6 +137,7 @@
 * **IBCCF:** Feng Li, Yingjie Yao, Peihua Li, David Zhang, Wangmeng Zuo, Ming-Hsuan Yang.
   "Integrating Boundary and Center Correlation Filters for Visual Tracking With Aspect Ratio Variation." ICCV workshop (2017).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Li_Integrating_Boundary_and_ICCV_2017_paper.pdf)]
+  [[github](https://github.com/lifeng9472/IBCCF)]
 
 * **RFL:** Tianyu Yang, Antoni B. Chan.
   "Recurrent Filter Learning for Visual Tracking." ICCV workshop (2017).
