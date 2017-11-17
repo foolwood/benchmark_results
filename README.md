@@ -64,7 +64,7 @@
 |    FCNT     |    0.599     |       0.856        |     -      |        -         |     -     |        -        |       Y       |    N(1)    |
 |   CNN-SVM   |    0.597     |       0.852        |   0.554    |      0.814       |   0.512   |      0.769      |       Y       |     N      |
 |     SCT     |    0.595     |       0.845        |     -      |        -         |     -     |        -        |       Y       |   Y(40)    |
-|   SO-DLT    |    0.595     |        0.81        |     -      |        -         |     -     |        -        |       Y       |     N     |
+|   SO-DLT    |    0.595     |        0.81        |     -      |        -         |     -     |        -        |       Y       |     N      |
 |     BIT     |    0.593     |       0.817        |     -      |        -         |     -     |        -        |       N       |   Y(45)    |
 |   DLSSVM    |    0.589     |       0.829        |   0.541    |      0.767       |     -     |        -        |       Y       |   N(10)    |
 |    SAMF     |    0.579     |       0.785        |   0.535    |      0.743       |     -     |        -        |       N       |    N(7)    |
@@ -133,6 +133,7 @@
 * **CFWCR:** Zhiqun He, Yingruo Fan, Junfei Zhuang, Yuan Dong, HongLiang Bai.
   "Correlation Filters With Weighted Convolution Responses." ICCV workshop (2017).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/He_Correlation_Filters_With_ICCV_2017_paper.pdf)]
+  [[github](https://github.com/he010103/CFWCR)]
 
 * **IBCCF:** Feng Li, Yingjie Yao, Peihua Li, David Zhang, Wangmeng Zuo, Ming-Hsuan Yang.
   "Integrating Boundary and Center Correlation Filters for Visual Tracking With Aspect Ratio Variation." ICCV workshop (2017).
