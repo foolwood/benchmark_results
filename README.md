@@ -597,7 +597,7 @@
 
 **[[VOT16_paper_ECCV](http://www.votchallenge.net/vot2016/download/vot_2016_paper.pdf)]The Visual Object Tracking VOT2016 challenge results**
 
-**[[VOT17_paper_ECCV](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Kristan_The_Visual_Object_ICCV_2017_paper.pdf)]The Visual Object Tracking VOT2017 challenge results**
+**[[VOT17_paper_ICCV](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Kristan_The_Visual_Object_ICCV_2017_paper.pdf)]The Visual Object Tracking VOT2017 challenge results**
 
 
 ## Distinguished Researchers & Teams
