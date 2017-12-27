@@ -415,11 +415,35 @@
 
 ### PAMI & IJCV & TIP
 
+* **AOGTracker:** Tianfu Wu , Yang Lu and Song-Chun Zhu. 
+  "Online Object Tracking, Learning and Parsing with And-Or Graphs." TPAMI (2017).
+  [[paper](http://www4.ncsu.edu/~twu19/papers/AOGTracker_PAMI.pdf)]
+  [[project](http://www4.ncsu.edu/~twu19/project_posts/AOGTracker/)]
+  [[github](https://github.com/tfwu/RGM-AOGTracker)] 
+  
+ * **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
+  " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
+  [[paper]]
+  [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
+  [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
+  
+* **RSST:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
+  "Online Object Tracking, Learning and Parsing with And-Or Graphs." TPAMI (2017).
+  [[paper]]
+  [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/rsst.html)]
+  [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_RSST/RSSTDeep/RSSTDeep_Code.zip)] 
+  
+* **fDSST:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg.
+  "Discriminative Scale Space Tracking." TPAMI (2017).
+  [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/DSST_TPAMI.pdf)]
+  [[project](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/index.html)]
+  [[code](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/fDSST_code.zip)] 
+
 * **KCF:** João F. Henriques, Rui Caseiro, Pedro Martins, Jorge Batista. 
   "High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015).
   [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
   [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
-
+  
 * **CLRST:** Tianzhu Zhang, Si Liu, Narendra Ahuja, Ming-Hsuan Yang, Bernard Ghanem.  
   "Robust Visual Tracking Via Consistent Low-Rank Sparse Learning." IJCV (2015). 
   [[paper](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Journal%20Articles/IJCV15_zhang_Low-Rank%20Sparse%20Learning.pdf)]
