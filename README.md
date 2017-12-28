@@ -428,7 +428,7 @@
   [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
   
 * **RSST:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
-  "Online Object Tracking, Learning and Parsing with And-Or Graphs." TPAMI (2017).
+  " Robust Structural Sparse Tracking." TPAMI (2017).
   [[paper]]
   [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/rsst.html)]
   [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_RSST/RSSTDeep/RSSTDeep_Code.zip)] 
