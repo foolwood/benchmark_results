@@ -117,6 +117,7 @@
 * **DSiam:** Qing Guo; Wei Feng; Ce Zhou; Rui Huang; Liang Wan; Song Wang.
   "Learning Dynamic Siamese Network for Visual Object Tracking." ICCV (2017).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf)]
+  [[github](https://github.com/tsingqguo/DSiam)]
 
 * **SP-KCF:** Xin Sun; Ngai-Man Cheung; Hongxun Yao; Yiluan Guo.
   "Non-Rigid Object Tracking via Deformable Patches Using Shape-Preserved KCF and Level Sets." ICCV (2017).
@@ -243,7 +244,8 @@
 * **CF+AT:** Adel Bibi, Matthias Mueller, and Bernard Ghanem. 
   "Target Response Adaptation for Correlation Filter Tracking." ECCV (2016). 
   [[paper](http://www.adelbibi.com/papers/ECCV2016/Target_Adap.pdf)]
-  [project]
+  [[project](https://ivul.kaust.edu.sa/Pages/pub-target-response-adaptation.aspx)]
+  [[github](https://github.com/adelbibi/Target-Response-Adaptation-for-Correlation-Filter-Tracking)]
 
 * Yao Sui, Ziming Zhang,  Guanghui Wang, Yafei Tang, Li Zhang. 
   "Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning." ECCV (2016). 
@@ -470,6 +472,18 @@
   [[code](http://kaihuazhang.net/CNT_matlab.rar)]
 
 ## ArXiv
+* **Meta-Tracker:** Eunbyung Park, Alexander C. Berg.
+  "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers." arXiv (2018). 
+  [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
+  [[github]( https://github.com/silverbottlep/meta_trackers)]
+  
+* **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.
+  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1712.09153v1.pdf)]
+  
+* **STECF:** Yang Li, Jianke Zhu, Wenjie Song, Zhefeng Wang, Hantang Liu, Steven C. H. Hoi.
+  "Robust Estimation of Similarity Transformation for Visual Object Tracking with Correlation Filters." arXiv (2017). 
+  [[paper](https://arxiv.org/pdf/1712.05231v1.pdf)]
 
 * **PAWSS:** Xiaofei Du, Alessio Dore, Danail Stoyanov. 
   "Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking." arXiv (2017). 
