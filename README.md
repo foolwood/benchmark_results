@@ -78,6 +78,46 @@
 
 ## Visual Trackers
 
+### CVPR2018
+
+* **LSART:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
+  "Learning Spatial-Aware Regressions for Visual Tracking." CVPR (2018 **Spotlight**). 
+  [[paper](http://lanl.arxiv.org/pdf/1706.07457v1)]
+
+* **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
+  "VITAL: VIsual Tracking via Adversarial Learning." CVPR (2018 **Spotlight**). 
+  [[project](https://sites.google.com/site/chaoma99/)]
+
+* **:** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi.
+  "Context-aware Deep Feature Compression for High-speed Visual Tracking." CVPR (2018). 
+  [[project](https://sites.google.com/site/jwchoivision/)]
+
+* **RASNet:** Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank.
+  "Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking." CVPR 2018. 
+  [[paper](http://www.dcs.bbk.ac.uk/~sjmaybank/CVPR18RASTrackCameraV3.3.pdf)]
+  [[github](https://github.com/foolwood/RASNet)]
+
+* **Twoflod:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
+  "A Twofold Siamese Network for Real-Time Object Tracking." CVPR (2018). 
+  [[paper](http://arxiv.org/pdf/1802.08817v1.pdf)]
+
+* **STRCF:** Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang.
+  "Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking." CVPR (2018). 
+  [[paper](http://lanl.arxiv.org/pdf/1803.08679v1)]
+  [[github](https://github.com/lifeng9472/STRCF)]
+
+* **FlowTrack:** Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan.
+  "End-to-end Flow Correlation Tracking with Spatial-temporal Attention." CVPR (2018). 
+  [[paper](http://arxiv.org/pdf/1711.01124v4.pdf)]
+
+* **:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
+  "Correlation Tracking via Joint Discrimination and Reliability Learning." CVPR (2018). 
+
+* **:** Kourosh Meshgi, Shigeyuki Oba, Shin Ishii.
+  "Efficient Diverse Ensemble for Discriminative Co-Tracking." CVPR (2018). 
+  [[paper](http://arxiv.org/pdf/1711.06564v1.pdf)]
+
+
 ### ICCV2017
 
 * **CREST:** Yibing Song, Chao Ma, Lijun Gong, Jiawei Zhang, Rynson Lau, Ming-Hsuan Yang. 
@@ -422,19 +462,19 @@
   [[paper](http://www4.ncsu.edu/~twu19/papers/AOGTracker_PAMI.pdf)]
   [[project](http://www4.ncsu.edu/~twu19/project_posts/AOGTracker/)]
   [[github](https://github.com/tfwu/RGM-AOGTracker)] 
-  
+
  * **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
-  " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
-  [[paper]]
-  [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
-  [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
-  
+     " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
+       [[paper]]
+       [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
+       [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
+
 * **RSST:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
   " Robust Structural Sparse Tracking." TPAMI (2017).
   [[paper]]
   [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/rsst.html)]
   [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_RSST/RSSTDeep/RSSTDeep_Code.zip)] 
-  
+
 * **fDSST:** Martin Danelljan, Gustav Häger, Fahad Khan, Michael Felsberg.
   "Discriminative Scale Space Tracking." TPAMI (2017).
   [[paper](http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/DSST_TPAMI.pdf)]
@@ -445,7 +485,7 @@
   "High-Speed Tracking with Kernelized Correlation Filters." TPAMI (2015).
   [[paper](http://www.robots.ox.ac.uk/~joao/publications/henriques_tpami2015.pdf)]
   [[project](http://www.robots.ox.ac.uk/~joao/circulant/)]
-  
+
 * **CLRST:** Tianzhu Zhang, Si Liu, Narendra Ahuja, Ming-Hsuan Yang, Bernard Ghanem.  
   "Robust Visual Tracking Via Consistent Low-Rank Sparse Learning." IJCV (2015). 
   [[paper](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/tianzhu%20zhang_files/Journal%20Articles/IJCV15_zhang_Low-Rank%20Sparse%20Learning.pdf)]
@@ -476,11 +516,11 @@
   "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers." arXiv (2018). 
   [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
   [[github]( https://github.com/silverbottlep/meta_trackers)]
-  
+
 * **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.
   "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1712.09153v1.pdf)]
-  
+
 * **STECF:** Yang Li, Jianke Zhu, Wenjie Song, Zhefeng Wang, Hantang Liu, Steven C. H. Hoi.
   "Robust Estimation of Similarity Transformation for Visual Object Tracking with Correlation Filters." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1712.05231v1.pdf)]
