@@ -97,7 +97,7 @@
   [[paper](http://www.dcs.bbk.ac.uk/~sjmaybank/CVPR18RASTrackCameraV3.3.pdf)]
   [[github](https://github.com/foolwood/RASNet)]
 
-* **Twoflod:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
+* **SA-Siam:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
   "A Twofold Siamese Network for Real-Time Object Tracking." CVPR (2018). 
   [[paper](http://arxiv.org/pdf/1802.08817v1.pdf)]
 
