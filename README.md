@@ -604,6 +604,12 @@
 
 ## Benchmark
 
+* **OxUvA long-term dataset+benchmark**: Jack Valmadre\*, Luca Bertinetto\*, João F.
+  Henriques, Ran Tao, Arnold Smeulders, Andrea Vedaldi, Philip Torr, Efstratios Gavves\*.
+  "Long-term Tracking in the Wild: A Benchmark".
+  [[paper](https://arxiv.org/abs/1803.09502)]
+  [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
+
 * **Dataset-AMP:** Luka Čehovin Zajc; Alan Lukežič; Aleš Leonardis; Matej Kristan.
   "Beyond Standard Benchmarks: Parameterizing Performance Evaluation in Visual Object Tracking." ICCV (2017).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zajc_Beyond_Standard_Benchmarks_ICCV_2017_paper.pdf)]
