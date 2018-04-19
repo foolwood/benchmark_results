@@ -80,22 +80,26 @@
 
 ### CVPR2018
 
+* **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
+  "VITAL: VIsual Tracking via Adversarial Learning." CVPR (2018 **Spotlight**). 
+  [[project](https://ybsong00.github.io/cvpr18_tracking/index)]
+  [[paper](https://arxiv.org/pdf/1804.04273.pdf)]
+  [[github](https://github.com/ybsong00/Vital_release)]
+
 * **LSART:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
   "Learning Spatial-Aware Regressions for Visual Tracking." CVPR (2018 **Spotlight**). 
   [[paper](http://lanl.arxiv.org/pdf/1706.07457v1)]
 
-* **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
-  "VITAL: VIsual Tracking via Adversarial Learning." CVPR (2018 **Spotlight**). 
-  [[project](https://sites.google.com/site/chaoma99/)]
+* **SiamRPN:** Bo Li, Wei Wu, Zheng Zhu, Junjie Yan.
+  " High Performance Visual Tracking with Siamese Region Proposal Network." CVPR (2018 **Spotlight**). 
 
-* **:** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi.
+* **TRACA:** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi.
   "Context-aware Deep Feature Compression for High-speed Visual Tracking." CVPR (2018). 
   [[project](https://sites.google.com/site/jwchoivision/)]
 
 * **RASNet:** Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank.
   "Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking." CVPR 2018. 
   [[paper](http://www.dcs.bbk.ac.uk/~sjmaybank/CVPR18RASTrackCameraV3.3.pdf)]
-  [[github](https://github.com/foolwood/RASNet)]
 
 * **SA-Siam:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
   "A Twofold Siamese Network for Real-Time Object Tracking." CVPR (2018). 
@@ -110,12 +114,21 @@
   "End-to-end Flow Correlation Tracking with Spatial-temporal Attention." CVPR (2018). 
   [[paper](http://arxiv.org/pdf/1711.01124v4.pdf)]
 
-* **:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
-  "Correlation Tracking via Joint Discrimination and Reliability Learning." CVPR (2018). 
-
 * **:** Kourosh Meshgi, Shigeyuki Oba, Shin Ishii.
   "Efficient Diverse Ensemble for Discriminative Co-Tracking." CVPR (2018). 
   [[paper](http://arxiv.org/pdf/1711.06564v1.pdf)]
+
+* **SINT++:** Xiao Wang, Chenglong Li, Bin Luo, Jin Tang.
+  "SINT++: Robust Visual Tracking via Adversarial Hard Positive Generation." CVPR (2018).
+
+* **:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
+  "Correlation Tracking via Joint Discrimination and Reliability Learning." CVPR (2018). 
+
+* **:** Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li.
+  "Multi-Cue Correlation Filters for Robust Visual Tracking." CVPR (2018). 
+
+* **:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
+  "High-speed Tracking with Multi-kernel Correlation Filters." CVPR (2018).
 
 
 ### ICCV2017
@@ -512,6 +525,11 @@
   [[code](http://kaihuazhang.net/CNT_matlab.rar)]
 
 ## ArXiv
+
+* **:** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg.
+  "Unveiling the Power of Deep Tracking." arXiv (2018). 
+  [[paper](https://arxiv.org/pdf/1804.06833.pdf)]
+
 * **Meta-Tracker:** Eunbyung Park, Alexander C. Berg.
   "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers." arXiv (2018). 
   [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
@@ -603,6 +621,10 @@
 
 
 ## Benchmark
+
+* **TrackingNet**: Matthias Müller, Adel Bibi, Silvio Giancola, Salman Al-Subaihi, Bernard Ghanem.
+  "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild".
+  [[paper](https://arxiv.org/pdf/1803.10794v1.pdf)]
 
 * **OxUvA long-term dataset+benchmark**: Jack Valmadre\*, Luca Bertinetto\*, João F.
   Henriques, Ran Tao, Arnold Smeulders, Andrea Vedaldi, Philip Torr, Efstratios Gavves\*.<br />
