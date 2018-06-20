@@ -83,52 +83,63 @@
 * **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
   "VITAL: VIsual Tracking via Adversarial Learning." CVPR (2018 **Spotlight**). 
   [[project](https://ybsong00.github.io/cvpr18_tracking/index)]
-  [[paper](https://arxiv.org/pdf/1804.04273.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.pdf)]
   [[github](https://github.com/ybsong00/Vital_release)]
 
 * **LSART:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
   "Learning Spatial-Aware Regressions for Visual Tracking." CVPR (2018 **Spotlight**). 
-  [[paper](http://lanl.arxiv.org/pdf/1706.07457v1)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf)]
 
 * **SiamRPN:** Bo Li, Wei Wu, Zheng Zhu, Junjie Yan.
-  " High Performance Visual Tracking with Siamese Region Proposal Network." CVPR (2018 **Spotlight**). 
+  "High Performance Visual Tracking with Siamese Region Proposal Network." CVPR (2018 **Spotlight**). 
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)]
 
 * **TRACA:** Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi.
   "Context-aware Deep Feature Compression for High-speed Visual Tracking." CVPR (2018). 
   [[project](https://sites.google.com/site/jwchoivision/)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)]
 
 * **RASNet:** Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank.
   "Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking." CVPR 2018. 
-  [[paper](http://www.dcs.bbk.ac.uk/~sjmaybank/CVPR18RASTrackCameraV3.3.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Attentions_Residual_CVPR_2018_paper.pdf)]
 
 * **SA-Siam:** Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng.
   "A Twofold Siamese Network for Real-Time Object Tracking." CVPR (2018). 
-  [[paper](http://arxiv.org/pdf/1802.08817v1.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf)]
 
 * **STRCF:** Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang.
   "Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking." CVPR (2018). 
-  [[paper](http://lanl.arxiv.org/pdf/1803.08679v1)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Learning_Spatial-Temporal_Regularized_CVPR_2018_paper.pdf)]
   [[github](https://github.com/lifeng9472/STRCF)]
 
 * **FlowTrack:** Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan.
   "End-to-end Flow Correlation Tracking with Spatial-temporal Attention." CVPR (2018). 
-  [[paper](http://arxiv.org/pdf/1711.01124v4.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_End-to-End_Flow_Correlation_CVPR_2018_paper.pdf)]
 
-* **:** Kourosh Meshgi, Shigeyuki Oba, Shin Ishii.
+* **DEDT:** Kourosh Meshgi, Shigeyuki Oba, Shin Ishii.
   "Efficient Diverse Ensemble for Discriminative Co-Tracking." CVPR (2018). 
-  [[paper](http://arxiv.org/pdf/1711.06564v1.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Meshgi_Efficient_Diverse_Ensemble_CVPR_2018_paper.pdf)]
 
 * **SINT++:** Xiao Wang, Chenglong Li, Bin Luo, Jin Tang.
-  "SINT++: Robust Visual Tracking via Adversarial Hard Positive Generation." CVPR (2018).
+  "SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation." CVPR (2018).
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf)]
 
-* **:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
+* **DRT:** Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang.
   "Correlation Tracking via Joint Discrimination and Reliability Learning." CVPR (2018). 
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)]
 
-* **:** Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li.
+* **MCCT:** Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li.
   "Multi-Cue Correlation Filters for Robust Visual Tracking." CVPR (2018). 
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)]
+  [[github](https://github.com/594422814/MCCT)]
 
-* **:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
+* **MKCF:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
   "High-speed Tracking with Multi-kernel Correlation Filters." CVPR (2018).
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf)]
+  
+* **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
+  "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
+  [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
 
 
 ### ICCV2017
@@ -707,14 +718,13 @@
 
 
 ## Distinguished Researchers & Teams
-Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order, I will continue to supplement this part.)
+Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order.)
 
 * [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
 * [Haibin Ling](http://www.dabi.temple.edu/~hbling/)
 * [Huchuan Lu](http://ice.dlut.edu.cn/lu/)
 * [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/)
 * [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
-* [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
 * [Matej Kristan](http://www.vicos.si/People/Matejk)
 * [João F. Henriques](http://www.robots.ox.ac.uk/~joao/)
 * [Martin Danelljan](http://users.isy.liu.se/cvl/marda26/)
