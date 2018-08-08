@@ -78,6 +78,49 @@
 
 ## Visual Trackers
 
+### ECCV2018
+
+* **UPDT:** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg.<br />
+  "Unveiling the Power of Deep Tracking." ECCV (2018). 
+  [[paper](https://arxiv.org/pdf/1804.06833.pdf)]  
+  
+* **DaSiamRPN:** Zheng Zhu, Qiang Wang, Bo Li, Wu Wei, Junjie Yan, Weiming Hu.<br />
+  "Distractor-aware Siamese Networks for Visual Object Tracking." ECCV (2018).
+  	
+* **SACF:** Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank.<br />
+  "Visual Tracking via Spatially Aligned Correlation Filters Network." ECCV (2018).
+  
+* **RTINet:** Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan, Wangmeng Zuo.<br />
+  "Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking." ECCV (2018).
+  [[paper](https://arxiv.org/pdf/1807.11071.pdf)]
+  
+* **Meta-Tracker:** Eunbyung Park, Alex Berg.<br />
+  "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers."
+  [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
+  [[github]( https://github.com/silverbottlep/meta_trackers)]
+
+* **DSLT:** Xiankai Lu, Chao Ma*, Bingbing Ni, Xiaokang Yang, Ian Reid, Ming-Hsuan Yang.<br />
+  "Deep Regression Tracking with Shrinkage Loss." ECCV (2018).
+  [[github](https://github.com/chaoma99/DSLT)]
+  	
+* **:** Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, Jie Zhou.<br />
+  "Deep Reinforcement Learning with Iterative Shift for Visual Tracking." ECCV (2018).
+  		
+* **:** Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han.<br />
+  "Real-Time Tracking with Discriminative Multi-Domain Convolutional Neural Networks." ECCV (2018).
+    	
+* **:** Boyu Chen, Dong Wang, Peixia Li, Huchuan Lu.<br />
+  "Real-time Actor-Critic Tracking." ECCV (2018).
+  	
+* **:** Yunhua Zhang, Lijun Wang, Dong Wang, Mengyang Feng, Huchuan Lu, Jinqing Qi.<br />
+  "Structured Siamese Network for Real-Time Visual Tracking." ECCV (2018).
+  	
+* **:** Tianyu Yang,  Antoni Chan.<br />
+  "Learning Dynamic Memory Networks for Object Tracking." ECCV (2018).
+  	
+* **:** Xingping Dong, Jianbing Shen.<br />
+  "Triplet Loss with Theoretical Analysis in Siamese Network for Real-Time Object Tracking." ECCV (2018).
+  
 ### CVPR2018
 
 * **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
@@ -537,15 +580,6 @@
 
 ## ArXiv
 
-* **:** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg.
-  "Unveiling the Power of Deep Tracking." arXiv (2018). 
-  [[paper](https://arxiv.org/pdf/1804.06833.pdf)]
-
-* **Meta-Tracker:** Eunbyung Park, Alexander C. Berg.
-  "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers." arXiv (2018). 
-  [[paper](https://arxiv.org/pdf/1801.03049.pdf)]
-  [[github]( https://github.com/silverbottlep/meta_trackers)]
-
 * **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.
   "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1712.09153v1.pdf)]
@@ -633,15 +667,19 @@
 
 ## Benchmark
 
-* **TrackingNet**: Matthias Müller, Adel Bibi, Silvio Giancola, Salman Al-Subaihi, Bernard Ghanem.
-  "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild".
-  [[paper](https://arxiv.org/pdf/1803.10794v1.pdf)]
-
-* **OxUvA long-term dataset+benchmark**: Jack Valmadre\*, Luca Bertinetto\*, João F.
-  Henriques, Ran Tao, Arnold Smeulders, Andrea Vedaldi, Philip Torr, Efstratios Gavves\*.<br />
-  "Long-term Tracking in the Wild: A Benchmark".
-  [[paper](https://arxiv.org/abs/1803.09502)]
+* **OxUvA long-term dataset+benchmark:** Efstratios Gavves, Luca Bertinetto, João Henriques, Andrea Vedaldi, Philip Torr, Ran Tao, Jack Valmadre.<br />
+  "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
+  [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
+  	
+* **TrackingNet:** Matthias Müller, Adel Bibi, Silvio Giancola, Salman Al-Subaihi, Bernard Ghanem.<br />
+  "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild." ECCV (2018).
+  [[project](https://silviogiancola.github.io/publication/2018-03-trackingnet/details/)]
+  [[paper](https://arxiv.org/pdf/1803.10794.pdf)] 
+   
+* **:** Dawei Du, Yuankai Qi, Hongyang Yu, Yifang Yang, Kaiwen Duan, GuoRong Li, Weigang Zhang,  Weihai; Qingming Huang, Qi Tian.<br />
+  "The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2018).
+  [[paper](https://arxiv.org/pdf/1804.00518.pdf)]
 
 * **Dataset-AMP:** Luka Čehovin Zajc; Alan Lukežič; Aleš Leonardis; Matej Kristan.
   "Beyond Standard Benchmarks: Parameterizing Performance Evaluation in Visual Object Tracking." ICCV (2017).
