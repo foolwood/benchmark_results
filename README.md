@@ -86,6 +86,8 @@
   
 * **DaSiamRPN:** Zheng Zhu, Qiang Wang, Bo Li, Wu Wei, Junjie Yan, Weiming Hu.<br />
   "Distractor-aware Siamese Networks for Visual Object Tracking." ECCV (2018).
+  [[paper](https://arxiv.org/pdf/1808.06048.pdf)]
+  [[github](https://github.com/foolwood/DaSiamRPN)]
   
 * **SACF:** Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank.<br />
   "Visual Tracking via Spatially Aligned Correlation Filters Network." ECCV (2018).
@@ -102,6 +104,8 @@
 * **DSLT:** Xiankai Lu, Chao Ma*, Bingbing Ni, Xiaokang Yang, Ian Reid, Ming-Hsuan Yang.<br />
   "Deep Regression Tracking with Shrinkage Loss." ECCV (2018).
   [[github](https://github.com/chaoma99/DSLT)]
+* **:** Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han.<br />
+  "Real-Time MDNet." ECCV (2018)
   
 * **:** Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, Jie Zhou.<br />
   "Deep Reinforcement Learning with Iterative Shift for Visual Tracking." ECCV (2018).
