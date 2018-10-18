@@ -216,6 +216,14 @@
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
 
 
+### NIPS2017
+
+* **HART:** Adam R. Kosiorek, Alex Bewley, Ingmar Posner. 
+  "Hierarchical Attentive Recurrent Tracking." NIPS (2017). 
+  [[paper](https://papers.nips.cc/paper/6898-hierarchical-attentive-recurrent-tracking.pdf)]
+  [[github](https://github.com/akosiorek/hart)]
+
+
 ### ICCV2017
 
 * **CREST:** Yibing Song, Chao Ma, Lijun Gong, Jiawei Zhang, Rynson Lau, Ming-Hsuan Yang. 
@@ -626,11 +634,6 @@
 * **SFT:** Zhen Cui, You yi Cai, Wen ming Zheng, Jian Yang. 
   "Spectral Filter Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1707.05553v1.pdf)]
-
-* **HART:** Adam R. Kosiorek, Alex Bewley, Ingmar Posner. 
-  "Hierarchical Attentive Recurrent Tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1706.09262.pdf)]
-  [[github](https://github.com/akosiorek/hart)]
 
 * **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
   "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
