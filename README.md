@@ -80,6 +80,14 @@
 
 ### ECCV2018
 
+* **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang.<br />
+  "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). 
+  [[paper](https://arxiv.org/pdf/1810.03851.pdf)] 
+  [[project](https://ybsong00.github.io/nips18_tracking/index)] 
+  [[code](https://github.com/shipubupt/NIPS2018)] 
+
+### ECCV2018
+
 * **UPDT:** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg.<br />
   "Unveiling the Power of Deep Tracking." ECCV (2018). 
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)]  
@@ -690,6 +698,11 @@
 
 ## Benchmark
 
+* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
+  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
+  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[project](https://cis.temple.edu/lasot/)]
+
 * **OxUvA long-term dataset+benchmark:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves.<br />
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
@@ -793,5 +806,7 @@ Distinguished visual tracking researchers who have published +3 papers which hav
 * [Hamed Kiani](http://www.hamedkiani.com/)
 * [Luca Bertinetto](http://www.robots.ox.ac.uk/~luca/index.html)
 * [Tianzhu Zhang](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html)
+* [Chao Ma](https://www.chaoma.info/)
+* [Yibing Song](https://ybsong00.github.io/)
 * [**Torr Vision Group**](http://www.robots.ox.ac.uk/~tvg/people.php)
 * [**Computer Vision Laboratory, POSTECH**](http://cvlab.postech.ac.kr/lab/index.php)
