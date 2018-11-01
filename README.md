@@ -78,7 +78,7 @@
 
 ## Visual Trackers
 
-### ECCV2018
+### NIPS2018
 
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang.<br />
   "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). 
