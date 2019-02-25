@@ -78,6 +78,39 @@
 
 ## Visual Trackers
 
+### CVPR2019
+
+* **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr.<br />
+  "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.05050.pdf)]
+  [[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)]
+
+* **CIR:** Zhipeng Zhang, Houwen Peng.<br />
+  "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1901.01660.pdf)]
+  [[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
+
+* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.<br />
+  "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.11703.pdf)]
+  [[project](http://bo-li.info/SiamRPN++/)]
+
+* **C-RPN:** Heng Fan, Haibin Ling.<br />
+  "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.06148.pdf)]
+
+* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.<br />
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[project](https://cis.temple.edu/lasot/)]
+
+### AAAI2019
+
+* **LDES:** Yang Li, Jianke Zhu, Steven C.H. Hoi, Wenjie Song, Zhefeng Wang, Hantang Liu.<br />
+  "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). 
+  [[paper](https://arxiv.org/pdf/1712.05231.pdf)]
+  [[code](https://github.com/ihpdep/LDES)] 
+
 ### NIPS2018
 
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang.<br />
