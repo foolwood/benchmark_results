@@ -94,24 +94,28 @@
 
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.<br />
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019 **oral**). 
-  [[paper](https://arxiv.org/pdf/1812.11703.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)]
   [[project](http://bo-li.info/SiamRPN++/)]
 
 * **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. <br />
   "ATOM: Accurate Tracking by Overlap Maximization." CVPR (2019 **oral**). 
-  [[paper](https://arxiv.org/pdf/1811.07628.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Danelljan_ATOM_Accurate_Tracking_by_Overlap_Maximization_CVPR_2019_paper.pdf)]
   [[code](https://github.com/visionml/pytracking)]
 
 * **SiamDW:** Zhipeng Zhang, Houwen Peng.<br />
   "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019 **oral**). 
-  [[paper](https://arxiv.org/pdf/1901.01660.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)]
   [[code](https://github.com/researchmm/SiamDW)]
 
-* **:** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
+* **GCT:** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
   "Graph Convolutional Tracking." CVPR (2019 **oral**).
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/researchmm/SiamDW)]
 
-* **:** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
+* **ASRCF:** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
   "Visual Tracking via Adaptive Spatially-Regularized Correlation Filters." CVPR (2019 **oral**).
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/Daikenan/ASRCF)]
 
 * **UDT:** Ning Wang, Yibing Song, Chao Ma, Wengang Zhou, Wei Liu, Houqiang Li.<br />
   "Unsupervised Deep Tracking." CVPR (2019). 
@@ -126,18 +130,20 @@
 
 * **C-RPN:** Heng Fan, Haibin Ling.<br />
   "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). 
-  [[paper](https://arxiv.org/pdf/1812.06148.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)]
 
 * **SPM:** Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng.<br />
   "SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking." CVPR (2019). 
-  [[paper](https://arxiv.org/pdf/1904.04452.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_SPM-Tracker_Series-Parallel_Matching_for_Real-Time_Visual_Object_Tracking_CVPR_2019_paper.pdf)]
 
 * **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. <br />
   "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). 
-  [[paper](https://arxiv.org/pdf/1811.10863.pdf)]
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
+  [[code](https://github.com/ugurkart/OTR)]
 
-* **:** Yuxuan Sun, Chong Sun, Dong Wang, Huchuan Lu, You He. <br />
+* **RPCF:** Yuxuan Sun, Chong Sun, Dong Wang, Huchuan Lu, You He. <br />
   "ROI Pooled Correlation Filters for Visual Tracking." CVPR (2019).
+  [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_ROI_Pooled_Correlation_Filters_for_Visual_Tracking_CVPR_2019_paper.pdf)]
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.<br />
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
