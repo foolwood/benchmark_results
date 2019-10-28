@@ -80,9 +80,50 @@
 
 ### :star2: Recommendations :star2:
 
+### ICCV2019
+
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
-  "Learning Discriminative Model Prediction for Tracking." . 
-  [[paper](https://arxiv.org/pdf/1904.07220.pdf)]
+  "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**). 
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
+
+* **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. <br />
+  "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+
+* **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. <br />
+  "Deep Meta Learning for Real-Time Target-Aware Visual Tracking." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf)]
+
+* **SPLT:** Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang <br />
+  "'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/iiau-tracker/SPLT)]
+
+* **ARCF:** Ziyuan Huang, Changhong Fu, Yiming Li, Fuling Lin, Peng Lu. <br />
+  "Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/vision4robotics/ARCF-tracker)]
+
+* **** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
+  "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
+
+* **PAT:** Rey Reza Wiyatno, Anqi Xu. <br />
+  "Physical Adversarial Textures That Fool Visual Object Tracking." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
+
+* **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. <br />
+  "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
+
+* **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
+
+  "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+
 
 ### CVPR2019
 
@@ -170,20 +211,20 @@
 * **UPDT:** Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg.<br />
   "Unveiling the Power of Deep Tracking." ECCV (2018). 
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf)]  
-  
+
 * **DaSiamRPN:** Zheng Zhu, Qiang Wang, Bo Li, Wu Wei, Junjie Yan, Weiming Hu.<br />
   "Distractor-aware Siamese Networks for Visual Object Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)]
   [[github](https://github.com/foolwood/DaSiamRPN)]
-  
+
 * **SACF:** Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank.<br />
   "Visual Tracking via Spatially Aligned Correlation Filters Network." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)]
-  
+
 * **RTINet:** Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan, Wangmeng Zuo.<br />
   "Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yingjie_Yao_Joint_Representation_and_ECCV_2018_paper.pdf)]
-  
+
 * **Meta-Tracker:** Eunbyung Park, Alexander C. Berg.<br />
   "Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers."
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Eunbyung_Park_Meta-Tracker_Fast_and_ECCV_2018_paper.pdf)]
@@ -193,15 +234,15 @@
   "Deep Regression Tracking with Shrinkage Loss." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiankai_Lu_Deep_Regression_Tracking_ECCV_2018_paper.pdf)]
   [[github](https://github.com/chaoma99/DSLT)]
-  
+
 * **DRL-IS:** Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, Jie Zhou.<br />
   "Deep Reinforcement Learning with Iterative Shift for Visual Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)]
-  
+
 * **RT-MDNet:** Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han.<br />
   "Real-Time MDNet." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ilchae_Jung_Real-Time_MDNet_ECCV_2018_paper.pdf)]
-  
+
 * **ACT:** Boyu Chen, Dong Wang, Peixia Li, Huchuan Lu.<br />
   "Real-time 'Actor-Critic' Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf)]
@@ -210,11 +251,11 @@
 * **StructSiam:** Yunhua Zhang, Lijun Wang, Dong Wang, Mengyang Feng, Huchuan Lu, Jinqing Qi.<br />
   "Structured Siamese Network for Real-Time Visual Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yunhua_Zhang_Structured_Siamese_Network_ECCV_2018_paper.pdf)]
-  
+
 * **MemTrack:** Tianyu Yang, Antoni B. Chan.<br />
   "Learning Dynamic Memory Networks for Object Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyu_Yang_Learning_Dynamic_Memory_ECCV_2018_paper.pdf)]
-  
+
 * **SiamFC-tri:** Xingping Dong, Jianbing Shen.<br />
   "Triplet Loss in Siamese Network for Object Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingping_Dong_Triplet_Loss_with_ECCV_2018_paper.pdf)]
@@ -224,13 +265,13 @@
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Efstratios_Gavves_Long-term_Tracking_in_ECCV_2018_paper.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
-  
+
 * **TrackingNet:** Matthias Müller, Adel Bibi, Silvio Giancola, Salman Al-Subaihi, Bernard Ghanem.<br />
   "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)] 
   [[project](http://tracking-net.org/)]
 
-  
+
 ### CVPR2018
 
 * **VITAL:** Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, and Ming-Hsuan Yang.
@@ -289,7 +330,7 @@
 * **MKCF:** Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang.
   "High-speed Tracking with Multi-kernel Correlation Filters." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf)]
-  
+
 * **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
   "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
@@ -648,11 +689,11 @@
   [[project](http://www4.ncsu.edu/~twu19/project_posts/AOGTracker/)]
   [[github](https://github.com/tfwu/RGM-AOGTracker)] 
 
- * **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
-     " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
-       [[paper]]
-       [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
-       [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
+* **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
+    " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
+      [[paper]]
+      [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
+      [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
 
 * **RSST:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
   " Robust Structural Sparse Tracking." TPAMI (2017).
@@ -789,12 +830,12 @@
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
-  
+
 * **TrackingNet:** Matthias Müller, Adel Bibi, Silvio Giancola, Salman Al-Subaihi, Bernard Ghanem.<br />
   "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild." ECCV (2018).
   [[project](https://silviogiancola.github.io/publication/2018-03-trackingnet/details/)]
   [[paper](https://arxiv.org/pdf/1803.10794.pdf)] 
-  
+
 * **UAVDT:** Dawei Du, Yuankai Qi, Hongyang Yu, Yifang Yang, Kaiwen Duan, GuoRong Li, Weigang Zhang,  Weihai; Qingming Huang, Qi Tian.<br />
   "The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1804.00518.pdf)]
