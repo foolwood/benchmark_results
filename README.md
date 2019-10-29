@@ -79,6 +79,10 @@
 ## Visual Trackers
 
 ### :star2: Recommendations :star2:
+* **VOT2019:** Kristan, Matej, et al.<br />
+  "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
+
 
 ### ICCV2019
 
@@ -106,7 +110,7 @@
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/vision4robotics/ARCF-tracker)]
 
-* **** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
+* Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
   "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
 
