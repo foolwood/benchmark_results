@@ -9,6 +9,15 @@
   "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
 
+* **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.<br />
+  "Siam R-CNN: Visual Tracking by Re-Detection." arXiv (2019).
+  [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
+
+* **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan.<br />
+
+  "D3S – A Discriminative Single Shot Segmentation Tracker." arXiv (2019).
+  [[paper](http://arxiv.org/pdf/1911.08862v1.pdf)]
+
 
 ### ICCV2019
 
