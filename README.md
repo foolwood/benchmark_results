@@ -49,6 +49,11 @@
   "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
 
+* **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. <br />
+  "Learning the Model Update for Siamese Trackers." ICCV (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf)]
+  [[code](https://github.com/zhanglichao/updatenet)]
+
 * **PAT:** Rey Reza Wiyatno, Anqi Xu. <br />
   "Physical Adversarial Textures That Fool Visual Object Tracking." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)]
