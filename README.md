@@ -5,18 +5,61 @@
 ## Papers
 
 ### :star2: Recommendations :star2:
-* **VOT2019:** Kristan, Matej, et al.<br />
-  "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
-  [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
+
+- Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
+  "Know Your Surroundings: Exploiting Scene Information for Object Tracking." Arxiv (2020).
+  [[paper](https://arxiv.org/pdf/2003.11014v1.pdf)] 
+
+
+### CVPR2020
+
+* **MAML:** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
+  "Tracking by Instance Detection: A Meta-Learning Approach." CVPR (2020 **Oral**).
+  [[paper](https://arxiv.org/pdf/2004.00830v1.pdf)]
 
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.<br />
-  "Siam R-CNN: Visual Tracking by Re-Detection." arXiv (2019).
-  [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
+  "Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).
+  [[paper](https://arxiv.org/pdf/1911.12836.pdf)] 
+  [[code](https://www.vision.rwth-aachen.de/page/siamrcnn)]
 
 * **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan.<br />
+  "D3S – A Discriminative Single Shot Segmentation Tracker." CVPR (2020).
+  [[paper](http://arxiv.org/pdf/1911.08862v2.pdf)]
+  [[code](https://github.com/alanlukezic/d3s)]
 
-  "D3S – A Discriminative Single Shot Segmentation Tracker." arXiv (2019).
-  [[paper](http://arxiv.org/pdf/1911.08862v1.pdf)]
+* **PrDiMP:** Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
+  "Probabilistic Regression for Visual Tracking." CVPR (2020).
+  [[paper](https://arxiv.org/pdf/2003.12565v1.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
+
+* **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.<br />
+  "ROAM: Recurrently Optimizing Tracking Model." CVPR (2020).
+  [[paper](https://arxiv.org/pdf/1907.12006v3.pdf)]
+
+* **AutoTrack:** Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu.<br />
+  "AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization." CVPR (2020).
+  [[paper](https://arxiv.org/pdf/2003.12949.pdf)]
+  [[code](https://github.com/vision4robotics/AutoTrack)]
+
+* **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji.<br />
+  "Siamese Box Adaptive Network for Visual Tracking." CVPR (2020).
+  [[paper](http://arxiv.org/pdf/1911.08862v2.pdf)]
+  [[code](https://github.com/hqucv/siamban)]
+
+* **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. <br />
+  "Deformable Siamese Attention Networks for Visual Object Tracking." CVPR (2020).
+  [[paper](https://arxiv.org/pdf/2004.06711v1.pdf)]
+
+* **CGACD:** Fei Du, Peng Liu, Wei Zhao, Xianglong Tang.<br />
+  "Correlation-Guided Attention for Corner Detection Based Visual Tracking." CVPR (2020).
+
+
+### AAAI 2020
+
+- **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
+  "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020).
+  [[paper](https://arxiv.org/pdf/1911.06188v4.pdf)]
+  [[code](https://github.com/MegviiDetection/video_analyst)]
 
 
 ### ICCV2019
@@ -67,6 +110,10 @@
 
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+
+* **VOT2019:** Kristan, Matej, et al.<br />
+  "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
+  [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
 
 
 ### CVPR2019
