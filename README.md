@@ -6,6 +6,8 @@
 
 ### :star2: Recommendations :star2:
 
+- A [repo](https://github.com/JudasDie/Comparision) compares **98** SOT methods on **15** tracking benckmarks. 
+
 - Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
   "Know Your Surroundings: Exploiting Scene Information for Object Tracking." Arxiv (2020).
   [[paper](https://arxiv.org/pdf/2003.11014v1.pdf)] 
